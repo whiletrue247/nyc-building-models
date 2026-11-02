@@ -7,7 +7,7 @@
     {
       "id": "15-broad",
       "name": "15 Broad Street",
-      "latestVersion": null,
+      "latestVersion": "v002",
       "versions": [
         {
           "version": "v001",
@@ -18,9 +18,19 @@
           "modelSha256": "b7ff2d5b27551a93e3d420405e1ebeb45122b8966715a4c3b2dcfb24c5faaf4a",
           "bytes": 19699410,
           "availabilityStatus": "withdrawn"
+        },
+        {
+          "version": "v002",
+          "record": "buildings/15-broad/v002/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/15-broad-v002",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/15-broad-v002/15-broad-v002.zip",
+          "sha256": "0dfc5a5cf62cc8afbc3e8356982d0e5c413b6d028beb05196675871fbe6e0afa",
+          "modelSha256": "9fca64405d8f9b3a16c9a724faaf0c2a9e920010cb7790be12e9ab24c623fda1",
+          "bytes": 19699972,
+          "availabilityStatus": "available"
         }
       ],
-      "availabilityStatus": "withdrawn-pending-paving-revision"
+      "availabilityStatus": "available"
     }
   ]
 }
