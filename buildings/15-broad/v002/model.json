@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "15-broad",
+  "name": "15 Broad Street",
+  "version": "v002",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "9fca64405d8f9b3a16c9a724faaf0c2a9e920010cb7790be12e9ab24c623fda1",
+  "bytes": 121836576,
+  "triangles": 1588878,
+  "meshNodes": 38,
+  "materialCount": 15,
+  "embeddedImages": 6,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Static tower exterior with two entrances and three foundation closures; corrected independent Broad entry paving, no interior or game code.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 6,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 224,
+  "relatedBuildings": [
+    {
+      "id": "23-wall",
+      "relation": "Separate adjacent bank, excluded; shared source-family local pivot."
+    }
+  ],
+  "compatibilityNotes": [
+    "1588878 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "assetId": "building.nyc.doitt.184418.part.15-broad",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.184418",
+    "bin": "1078988",
+    "sourceId": "21210000894",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_C5PPNNBYTY1NH5MBJKW2KUZSZP3DYGN9DXGY",
+    "sourceMeshSha256": "731c1045526fb875644ee71b092b1ff57dab3b00dce67f6abdf6687b86bd6e5a",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "15-broad",
+    "nativeRecordId": "gml_C5PPNNBYTY1NH5MBJKW2KUZSZP3DYGN9DXGY"
+  },
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/15-broad-v002",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/15-broad-v002/15-broad-v002.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "0dfc5a5cf62cc8afbc3e8356982d0e5c413b6d028beb05196675871fbe6e0afa",
+    "bytes": 19699972
+  }
+}
