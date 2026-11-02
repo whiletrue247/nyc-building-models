@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "15-broad",
+  "name": "15 Broad Street",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "b7ff2d5b27551a93e3d420405e1ebeb45122b8966715a4c3b2dcfb24c5faaf4a",
+  "bytes": 121834184,
+  "triangles": 1588879,
+  "meshNodes": 38,
+  "materialCount": 15,
+  "embeddedImages": 6,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Static exterior with two authored entrance approaches and three foundation closures; no interior or game code.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 6,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 32,
+  "relatedBuildings": [
+    {
+      "id": "23-wall",
+      "relation": "Separate adjacent bank, excluded from this model; shared source-family local pivot."
+    }
+  ],
+  "compatibilityNotes": [
+    "High-detail model with 1,588,879 triangles; use an appropriate desktop viewer/importer. No Quest hardware certification.",
+    "Some normal-mapped primitives require consumer-generated tangent space. Shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, usable interiors and gameplay scripts are not included.",
+    "Appearance, sculpture and dimensions contain documented artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "version": "v001",
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/15-broad-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/15-broad-v001/15-broad-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "953a05fb4c2d1e9c9c6ba5e69454414fef35dd57a91b494d74282647842574b8",
+    "bytes": 19699410
+  }
+}
