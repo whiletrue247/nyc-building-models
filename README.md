@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**No model releases are available yet.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**1 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -19,3 +19,9 @@ Each building has a stable identifier and independent released version history. 
 ## License
 
 Original contributions are offered under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), to the extent contributors can grant those rights. Credit the project, preserve applicable source attribution, link the license and identify changes. Third-party source terms are retained in each released asset's required notices. No endorsement by the City, building owners or depicted organizations is implied.
+
+## Available models
+
+| Building | Version | Download |
+| --- | --- | --- |
+| 15 Broad Street | [v001](buildings/15-broad/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/15-broad-v001/15-broad-v001.zip) |

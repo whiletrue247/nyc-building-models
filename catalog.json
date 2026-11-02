@@ -3,5 +3,22 @@
   "project": "nyc-building-models",
   "assetScope": "standalone building models, UVs, materials and textures",
   "defaultLicense": "CC-BY-4.0",
-  "buildings": []
+  "buildings": [
+    {
+      "id": "15-broad",
+      "name": "15 Broad Street",
+      "latestVersion": "v001",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/15-broad/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/15-broad-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/15-broad-v001/15-broad-v001.zip",
+          "sha256": "953a05fb4c2d1e9c9c6ba5e69454414fef35dd57a91b494d74282647842574b8",
+          "modelSha256": "b7ff2d5b27551a93e3d420405e1ebeb45122b8966715a4c3b2dcfb24c5faaf4a",
+          "bytes": 19699410
+        }
+      ]
+    }
+  ]
 }
