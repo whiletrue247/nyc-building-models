@@ -16,7 +16,7 @@
   "aiModelId": null,
   "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
   "scope": "Static exterior with two authored entrance approaches and three foundation closures; no interior or game code.",
-  "verificationStatus": "accepted-desktop-static-exterior",
+  "verificationStatus": "withdrawn-pending-paving-revision",
   "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
   "testedConsumer": {
     "application": "Blender",
@@ -42,9 +42,12 @@
   "version": "v001",
   "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/15-broad-v001",
   "download": {
-    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/15-broad-v001/15-broad-v001.zip",
+    "url": null,
     "format": "ZIP containing the self-contained GLB, placement and licensing records",
     "sha256": "953a05fb4c2d1e9c9c6ba5e69454414fef35dd57a91b494d74282647842574b8",
     "bytes": 19699410
-  }
+  },
+  "knownIssues": [
+    "Broad entrance paving has overlapping artist triangles with local height differences up to 0.021m; corrected asset revision pending."
+  ]
 }
