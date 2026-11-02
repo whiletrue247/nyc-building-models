@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "project": "nyc-building-models",
+  "assetScope": "standalone building models, UVs, materials and textures",
+  "defaultLicense": "CC-BY-4.0",
+  "buildings": []
+}
