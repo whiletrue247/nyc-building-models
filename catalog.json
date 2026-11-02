@@ -31,6 +31,24 @@
         }
       ],
       "availabilityStatus": "available"
+    },
+    {
+      "id": "23-wall",
+      "name": "23 Wall Street",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/23-wall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/23-wall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/23-wall-v001/23-wall-v001.zip",
+          "sha256": "f4570e6bd9814f4db24e5fd6fc80d6e36284ad627f3cfe0c13ddf2db4e7b6064",
+          "modelSha256": "cdb4480457555851c195a43a18650323ffd28c566f0c816a04feb479772a9a16",
+          "bytes": 6677639,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
