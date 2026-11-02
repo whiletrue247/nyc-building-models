@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "23-wall",
+  "name": "23 Wall Street",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "cdb4480457555851c195a43a18650323ffd28c566f0c816a04feb479772a9a16",
+  "bytes": 23297260,
+  "triangles": 314454,
+  "meshNodes": 40,
+  "materialCount": 11,
+  "embeddedImages": 7,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Static bank exterior with nine repaired lower grilles/gate, a threshold-local corner doorway, five stairs, landing and source-bound paving; no interior or game code.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "version": "v001",
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 7,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 113,
+  "relatedBuildings": [
+    {
+      "id": "15-broad",
+      "relation": "Separate neighboring tower, excluded; shared source-family local pivot."
+    }
+  ],
+  "compatibilityNotes": [
+    "314454 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "assetId": "building.nyc.doitt.184418.part.23-wall",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.184418",
+    "bin": "1078988",
+    "sourceId": "21210000894",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_C5PPNNBYTY1NH5MBJKW2KUZSZP3DYGN9DXGY",
+    "sourceMeshSha256": "731c1045526fb875644ee71b092b1ff57dab3b00dce67f6abdf6687b86bd6e5a",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "23-wall",
+    "nativeRecordId": "gml_C5PPNNBYTY1NH5MBJKW2KUZSZP3DYGN9DXGY"
+  },
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/23-wall-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/23-wall-v001/23-wall-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "f4570e6bd9814f4db24e5fd6fc80d6e36284ad627f3cfe0c13ddf2db4e7b6064",
+    "bytes": 6677639
+  }
+}
