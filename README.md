@@ -1,28 +1,21 @@
 # NYC Building Models
 
-An evolving, AI-assisted reconstruction of real New York City buildings.
+Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-The goal is to preserve successive reconstructions as different AI models and methods become available, so anyone can download historical versions and compare their results.
+**No model releases are available yet.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
-## Scope
+## Using a release
 
-This repository distributes standalone building geometry, UVs, materials and textures, together with the minimal license, attribution and version records needed to use them. Game source code, gameplay state, player data, conversations, credentials and private project history are excluded.
+Each building release supplies a self-contained model with UVs, materials and textures, plus the minimal license, version, checksum and placement records needed to use it. The recorded local origin, coordinate axes, geographic anchor and terrain binding must identify the supported official terrain release and hash, so placement does not require guessing or rebuilding the foundation.
 
-**Status:** repository initialized. No building assets have been published yet. Each asset must pass a fresh privacy inspection and a source/license review before publication.
+The current terrain compatibility target is `nyc.ground.2017.2m.v1`, using the documented NYC source coordinate contract. Compatibility means tested placement and ground interfaces against that specific terrain; it does not certify surveyed accuracy or establish an unknown building-source vertical datum.
 
-## Building versions
+Models will be downloaded through [Release Assets](https://github.com/whiletrue247/nyc-building-models/releases), indexed by `catalog.json`. The repository ZIP contains catalog and licensing records; model binaries are separate downloads. No game code, research photographs, development reports, player state, conversations or credentials belong in this repository.
 
-- Each building has a stable public identifier and its own version sequence (for example, `federal-hall-v001`, then `federal-hall-v002`).
-- Published versions are retained rather than overwritten. A correction becomes a new version. Each release describes changes from the preceding version; consumers can select an older release.
-- Published model assets are intended to be self-contained GLB files using metres and a documented local pivot. Geographic placement and runtime terrain, collision and navigation integration are managed separately by the consuming application. Format and placement compatibility must be checked before replacing an installed model.
-- Large model files are distributed as GitHub Release assets; `catalog.json` will index their individual downloads and SHA-256 hashes.
-- Version records identify the date, known AI model/provider, format, units, local pivot, appearance changes and relevant source/accuracy limitations. Unverified AI provenance is recorded as unknown rather than guessed.
-- Model files contain no game logic. A game or viewer needs a compatible asset downloader and importer to use them; that integration is not supplied by this repository.
+## Released versions
 
-Models are reconstructions. A newer version or AI model is not automatically more accurate, and surveyed accuracy is not assumed.
+Each building has a stable identifier and independent released version history. A finished correction becomes a new version with its own download and SHA-256; previous released versions remain available for comparison. Development iterations stay outside the public library. Known AI model provenance and relevant asset limitations are recorded without inventing missing model identifiers.
 
 ## License
 
-Original contributions are offered under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), to the extent the contributors can grant those rights. Credit the project and the relevant contributors, link the license, and indicate modifications. Third-party materials retain their applicable licenses and required attribution; asset-specific notices take precedence where necessary.
-
-Only sanitized asset files and their necessary public records belong here. File extensions alone are not a privacy guarantee: model metadata, image metadata, embedded resources, external paths and commit identity must also be inspected before every synchronization.
+Original contributions are offered under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), to the extent contributors can grant those rights. Credit the project, preserve applicable source attribution, link the license and identify changes. Third-party source terms are retained in each released asset's required notices. No endorsement by the City, building owners or depicted organizations is implied.
