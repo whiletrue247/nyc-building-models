@@ -1,0 +1,19 @@
+NYC Building Models / whiletrue247: original contributions CC BY4.0, https://github.com/whiletrue247/nyc-building-models . Credit the project, preserve source notices and identify modifications.
+
+Source envelope: NYC OTI (formerly DoITT), 3-D Building Model, 2014 survey /2016 publication. https://github.com/CityOfNewYork/nyc-geo-metadata/blob/main/Metadata/Metadata_3DBuildingModel.md ; City terms https://data.cityofnewyork.us/stories/s/Terms-of-Use/k9k7-3cje . Initial conversion https://github.com/JoeThunyathep/NYC3D_CesiumJS revision df20a24582520dd856e56e99ae44e3ff43ab3269 . Converter code is not included; its code license does not replace City terms.
+
+60 Broad Street / 25 Beaver Street. One physical target, original locked source geometry/roof/height profile retained. Independent estimated facade artwork, UV and procedural PBR; no commercial-mesh geometry, reference photograph pixels or third-party miniature-model payload included. Research views include partial/dated evidence, not a complete 2026 survey. Unobserved returns and interior voids remain explicit estimates. Doors/display interiors are static estimates, not operating stores, surveyed interiors or accessible-route certification.
+Retained research references (not redistributed image/model assets):
+https://data.cityofnewyork.us/resource/5zhs-2jue.json?%24select=bin%2Cdoitt_id%2Cbase_bbl%2Cconstruction_year%2Cgeom_source%2Cground_elevation%2Cheight_roof%2Clast_edited_date&%24where=bin%3D1000817&%24limit=10
+https://data.cityofnewyork.us/resource/64uk-42ks.json?%24select=bbl%2Caddress%2Cnumfloors%2Cyearbuilt%2Cbldgfront%2Cbldgdepth%2Cnumbldgs%2Cversion%2Clotarea%2Cbldgarea&%24where=bbl%3D1000240001&%24limit=10
+https://m-maa.imgix.net/img/hero-images/assets/uploads/02157_00_60BroadLobby_photo_dMitchell_N10_med.jpg?auto=format%2Ccompress&w=4000
+https://m-maa.imgix.net/img/content-images/assets/uploads/02157_00_60BroadLobby_photo_dMitchell_N2_med.jpg?auto=format%2Ccompress&q=60&w=600
+https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/60_Broad_Street_001.jpg/960px-60_Broad_Street_001.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org
+https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/60_Broad_Street_002.jpg/960px-60_Broad_Street_002.jpg?utm_campaign=index&utm_content=thumbnail&utm_source=commons.wikimedia.org
+https://60broadnyc.com/wp-content/uploads/2021/12/60-BROAD-8830_V1.jpg
+https://architecturaltrust.org/wp-content/uploads/2013/06/Report_NR_Wall_Street.pdf
+Locked source identity nyc.doitt.43141 / BIN 1000817.
+
+Independent estimated entrance floors and any listed wall-footing closures use unchanged NYC/NYS2017 source terrain: https://elevation.its.ny.gov/arcgis/rest/services/NYC_TopoBathymetric_2017_1_meter/ImageServer . Original source roof heights, building body geometry, UVs and whole-building position remain unchanged; separate support components and explicitly listed local artist doorway registrations are revised. Terrain is not bundled, moved or flattened. Native building datum remains unknown; compatibility binding is not a datum conversion, field measurement or accessibility certification. Original body below grade is retained.
+
+Static high-detail exterior with estimated nonplayable entry backgrounds only; no game code, player data, operating door/interior, collision/navigation code, wind/cloth simulation, current as-built survey or Quest hardware certification. No City, owner, merchant or other organization endorsement.
