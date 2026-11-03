@@ -373,6 +373,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "20-pine",
+      "name": "20 Pine Street | former Chase National Bank / The Collection",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/20-pine/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/20-pine-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/20-pine-v001/20-pine-v001.zip",
+          "sha256": "81c8b8220d73a5c91f37b75302ab204f4004b68a268ee8473107bbe0ea08b56f",
+          "modelSha256": "c7a8aa7dcfadbd35b2baed5dc0344d810d292f797daefb7662763019e46c9474",
+          "bytes": 10293511,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }

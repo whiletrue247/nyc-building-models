@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**20 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**21 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -46,3 +46,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 48 Wall Street / Bank of New York Building | [v001](buildings/48-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/48-wall-v001/48-wall-v001.zip) |
 | 52 William Street / Kuhn Loeb Company Building | [v001](buildings/52-william/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/52-william-v001/52-william-v001.zip) |
 | 44 Wall Street | Atlantic Office of the Bank of America | [v001](buildings/44-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/44-wall-v001/44-wall-v001.zip) |
+| 20 Pine Street | former Chase National Bank / The Collection | [v001](buildings/20-pine/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/20-pine-v001/20-pine-v001.zip) |
