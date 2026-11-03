@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**11 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**12 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -37,3 +37,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 40 Wall Street / Bank of Manhattan Company Building | [v001](buildings/40-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/40-wall-v001/40-wall-v001.zip) |
 | 37 Wall Street / Trust Company of America Building | [v001](buildings/37-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/37-wall-v001/37-wall-v001.zip) |
 | 43-49 Exchange Place / Wall Street Exchange Building | [v001](buildings/43-exchange/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/43-exchange-v001/43-exchange-v001.zip) |
+| 45 Wall Street / Atlantic Building | [v001](buildings/45-wall-atlantic/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/45-wall-atlantic-v001/45-wall-atlantic-v001.zip) |

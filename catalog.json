@@ -211,6 +211,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "45-wall-atlantic",
+      "name": "45 Wall Street / Atlantic Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/45-wall-atlantic/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/45-wall-atlantic-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/45-wall-atlantic-v001/45-wall-atlantic-v001.zip",
+          "sha256": "c0a7a3b0a237aab866132745ac0513a586ba15526bb477dba4ae5fb2c0402094",
+          "modelSha256": "cb022f348607b6795409a49d73d16a6db748f589ae748bb3e014e3298da3c99c",
+          "bytes": 6081270,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
