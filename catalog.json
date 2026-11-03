@@ -661,6 +661,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "trinity-church",
+      "name": "Trinity Church",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/trinity-church/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/trinity-church-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/trinity-church-v001/trinity-church-v001.zip",
+          "sha256": "070858dff81de722fc98ab503e749bcb3c1667007a0a5e7b5e0cd364f8f5d176",
+          "modelSha256": "7806cc885cf3f7c19e3d8e876c511ed520f88c59792c905ad564312a7f3c9790",
+          "bytes": 44303605,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
