@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "buildingId": "20-pine",
+  "assetAxes": "right-handed X East, Y Up, Z South",
+  "units": "metres",
+  "coordinateFrame": "nyc.enu-ground.navd88.2017.v1",
+  "terrainRelease": "nyc.ground.2017.2m.v1",
+  "terrainCatalogSha256": "31ca7eb3aee13e6b07c7cc665b5228e5fb17fbed2688d98e652135b4d84f3fae",
+  "frameAxes": "X East, Y Up, Z North",
+  "horizontalFrameOriginWgs84": {
+    "longitude": -74.0111,
+    "latitude": 40.7069,
+    "ellipsoidHeight": 0
+  },
+  "rawGltfCoordinatesToFrameMatrixRows": [
+    [
+      1,
+      0,
+      0,
+      84.9962449272985
+    ],
+    [
+      0,
+      1,
+      0,
+      3.64593391418457
+    ],
+    [
+      0,
+      0,
+      -1,
+      59.047379104191805
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "rightHandedFrameRepresentation": {
+    "axes": "X East, Y Up, Z South",
+    "modelTranslation": [
+      84.9962449272985,
+      3.64593391418457,
+      -59.047379104191805
+    ],
+    "rotationQuaternion": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  "geographicAnchor": {
+    "crs": "EPSG:2263",
+    "crsNativeUnit": "US survey foot",
+    "storedHorizontalUnit": "metre",
+    "nativeUnitToMetres": 0.3048006096012192,
+    "absoluteProjectedMetres": [
+      299146.9800962402,
+      60049.71271544587
+    ]
+  },
+  "buildingSourceHeight": {
+    "metres": 9.690648078918457,
+    "profile": "nyc.oti.citygml2014.native-z",
+    "datumStatus": "unknown"
+  },
+  "groundInterfaceBinding": "Independent authored foundations, stairs and paving bound to the specified official terrain/support revision; placement compatibility is not a source-datum conversion.",
+  "parts": [
+    {
+      "id": "master",
+      "nodeIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "id": "entry-art",
+      "nodeIndices": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "id": "entry-interfaces",
+      "nodeIndices": [
+        26
+      ]
+    }
+  ],
+  "modelSha256": "c7a8aa7dcfadbd35b2baed5dc0344d810d292f797daefb7662763019e46c9474",
+  "automaticTerrainRescale": false,
+  "projectedTerrainPlacement": {
+    "crs": "EPSG:2263",
+    "storedHorizontalUnit": "metre",
+    "terrainVerticalProfile": "NAVD88-metres",
+    "projectedAnchorMetres": [
+      299146.9800962397,
+      60049.712715446585
+    ],
+    "localGltfToAnchorRelativeProjectedRightHandedMatrixRows": [
+      [
+        0.9999979779240675,
+        0,
+        -0.000126684142742306,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        9.690648078918457
+      ],
+      [
+        0.00012668171257246286,
+        0,
+        0.9999979800049914,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "rightHandedProjectedAxes": "X projected East, Y Up, Z projected South; horizontal origin is projectedAnchorMetres and height origin is NAVD88 zero",
+    "heightValueStatus": "Authored compatibility placement tested against the pinned terrain; not evidence of a datum conversion for the unknown 2014 building source.",
+    "horizontalMethod": "Finite-difference ENU-to-EPSG:2263 basis, independently checked against nonlinear reprojection of every actual position after each node rotation and translation.",
+    "maximumCheckedVertexApproximationErrorMetres": 1.1608086606701403e-06,
+    "checkedPositionVertices": 708537,
+    "errorScope": "Maximum over this asset vertex set; not a continuous bound or survey precision. Matrix includes declared CRS basis conversion, not an artistic rescale."
+  }
+}

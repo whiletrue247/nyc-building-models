@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "20-pine",
+  "name": "20 Pine Street | former Chase National Bank / The Collection",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "c7a8aa7dcfadbd35b2baed5dc0344d810d292f797daefb7662763019e46c9474",
+  "bytes": 31562576,
+  "triangles": 352785,
+  "meshNodes": 27,
+  "materialCount": 15,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; verified existing material-only input repairs normal wiring; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position and unknown datum retained; localized entry lower assemblies registered to fixed floors, upper transoms shortened within unchanged opening heads. Other art retained. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.579632.part.20-pine",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.579632",
+    "bin": "1001022",
+    "sourceId": "21210000592",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_P93XVVXLIPJ5HY4OEM3FD9XTH8IZZ55042SX",
+    "sourceMeshSha256": "720db74a1c59d78a2e7209a801646b2d34b382c46e6f1ff5c61bcc6ec10e4a74",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "20-pine",
+    "nativeRecordId": "gml_P93XVVXLIPJ5HY4OEM3FD9XTH8IZZ55042SX"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 76,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "352785 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/20-pine-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/20-pine-v001/20-pine-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "81c8b8220d73a5c91f37b75302ab204f4004b68a268ee8473107bbe0ea08b56f",
+    "bytes": 10293511
+  }
+}
