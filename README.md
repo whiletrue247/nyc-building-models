@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**23 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**24 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -49,3 +49,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 20 Pine Street | former Chase National Bank / The Collection | [v001](buildings/20-pine/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/20-pine-v001/20-pine-v001.zip) |
 | 120 Broadway | Equitable Building | [v001](buildings/120-broadway/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/120-broadway-v001/120-broadway-v001.zip) |
 | 100 Broadway | American Surety Building | [v001](buildings/100-broadway/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/100-broadway-v001/100-broadway-v001.zip) |
+| 2 Wall Street | First National Bank Building | [v001](buildings/2-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/2-wall-v001/2-wall-v001.zip) |

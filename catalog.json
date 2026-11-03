@@ -427,6 +427,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "2-wall",
+      "name": "2 Wall Street | First National Bank Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/2-wall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/2-wall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/2-wall-v001/2-wall-v001.zip",
+          "sha256": "83d43af92259ad714e0d7bb83d6edf409ff25d67cce669256979821fbf578d15",
+          "modelSha256": "fb84402683cc7407e5d7f4da3bcc76599bb8f214d3d917af48f15e4acbc0badb",
+          "bytes": 5819057,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
