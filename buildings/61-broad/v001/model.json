@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "61-broad",
+  "name": "61 Broadway / Adams Express Building / BIN1000808",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "28d352d7656046d17437d74bc6e112ac0b18d4524097f14ead00946e1db88fb8",
+  "bytes": 50033728,
+  "triangles": 760893,
+  "meshNodes": 29,
+  "materialCount": 16,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; original master material inputs audited separately; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position and unknown datum retained; only named lower entry artwork registered to independently bound floors, other art preserved. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.165701.part.61-broad",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.165701",
+    "bin": "1000808",
+    "sourceId": "21210001425",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_L2F9QCZFQ9P0Z4PVM4H9B9TZ0TMUGOE1SI4J",
+    "sourceMeshSha256": "f36f08d5f0e17744372bef2818cf1652912e5e73f23208075994e5ec49284553",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "61-broad",
+    "nativeRecordId": "gml_L2F9QCZFQ9P0Z4PVM4H9B9TZ0TMUGOE1SI4J"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 70,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "760893 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/61-broad-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/61-broad-v001/61-broad-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "19bbef2a00c962f6f3dfdaec29cb4dd6c2686b6c50196259245a284a624b65ef",
+    "bytes": 14718968
+  }
+}
