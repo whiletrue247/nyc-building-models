@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "nyse-main",
+  "assetId": "building.nyc.doitt.257850.part.nyse-main",
+  "name": "New York Stock Exchange / 1903 main building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "f6d327cfead5404e07f4bff11bbb95e5788ea432cf1b64e435080a34dc333d29",
+  "bytes": 128445808,
+  "triangles": 2871071,
+  "meshNodes": 89,
+  "materialCount": 15,
+  "embeddedImages": 4,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.257850",
+    "bin": "1078981",
+    "sourceId": "21210001621",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_JS0HGOCFLL9VXKKZCGK8I7J3S9FU7VNTR2PC",
+    "sourceMeshSha256": "6b67afb14686a1998c43e23ee4d90c4289eb2b152319b026f7d1b63c26c04b52",
+    "sourceDataset": "nyc.oti.citygml.2014",
+    "physicalTargetId": "nyse-main",
+    "nativeRecordId": "gml_JS0HGOCFLL9VXKKZCGK8I7J3S9FU7VNTR2PC"
+  },
+  "scope": "Static full exterior artwork of the 1903 main building, with UVs, embedded materials/textures, static hanging flags and source-bound independent entrance interfaces. Separate from 1922 north annex.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop static exterior; no Quest hardware certification.",
+  "knownLimitations": [
+    "Estimated roof envelope/steel detailing, sculptures, party-wall finishes and unobserved details; not surveyed 1:1 or current-condition certification.",
+    "Unknown original building vertical datum remains unknown; roof art registration and entrance fitting are authored compatibility decisions.",
+    "No usable interior, operating doors, collision/navigation components or flag simulation scripts are included.",
+    "Some normal-mapped primitives require consumer-generated tangent space; flag texture has non-power-of-two dimensions."
+  ],
+  "relatedBuildings": [
+    {
+      "id": "11-wall-annex",
+      "relation": "1922 north annex is a separate model and public release."
+    }
+  ],
+  "heightEvidence": {
+    "sourceShellMaximumRelativeMetres": 50.899831,
+    "authoredHighestLocalUpMetres": 46.830501556396484,
+    "surveyedHeightReconciled": false,
+    "note": "Original decoded shell and authored roof endpoints differ. No whole-building rescale or source-datum conversion was performed."
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 7,
+    "packedImages": 4,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactScope": "Five retained front entrance aprons, repaired rear service threshold/outer seams, independent source-bound perimeter base; original terrain immutable.",
+  "runtimeTraversalAccepted": false,
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/nyse-main-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/nyse-main-v001/nyse-main-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "db10cb4ce94c13ed186a37169db374351abfc2cc9f44e9030f66cb3cbe109500",
+    "bytes": 34410201
+  }
+}

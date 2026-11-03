@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "buildingId": "nyse-main",
+  "assetAxes": "right-handed X East, Y Up, Z South",
+  "units": "metres",
+  "coordinateFrame": "nyc.enu-ground.navd88.2017.v1",
+  "terrainRelease": "nyc.ground.2017.2m.v1",
+  "terrainCatalogSha256": "31ca7eb3aee13e6b07c7cc665b5228e5fb17fbed2688d98e652135b4d84f3fae",
+  "frameAxes": "X East, Y Up, Z North",
+  "horizontalFrameOriginWgs84": {
+    "longitude": -74.0111,
+    "latitude": 40.7069,
+    "ellipsoidHeight": 0
+  },
+  "rawGltfCoordinatesToFrameMatrixRows": [
+    [
+      1,
+      0,
+      0,
+      5.3350000005130065
+    ],
+    [
+      0,
+      1,
+      0,
+      -1.495260265824017
+    ],
+    [
+      0,
+      0,
+      -1,
+      -8.400000001625704
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "rightHandedFrameRepresentation": {
+    "axes": "X East, Y Up, Z South",
+    "modelTranslation": [
+      5.3350000005130065,
+      -1.495260265824017,
+      8.400000001625704
+    ],
+    "rotationQuaternion": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  "geographicAnchor": {
+    "crs": "EPSG:2263",
+    "crsNativeUnit": "US survey foot",
+    "storedHorizontalUnit": "metre",
+    "nativeUnitToMetres": 0.3048006096012192,
+    "absoluteProjectedMetres": [
+      299067.3104658796,
+      59982.2755648074
+    ],
+    "description": "Authored Broad Street front-edge midpoint; distinct from original decoded source pivot."
+  },
+  "buildingSourceHeight": {
+    "metres": 4.54945389890987,
+    "profile": "nyc.oti.citygml2014.native-z",
+    "datumStatus": "unknown"
+  },
+  "originalDecodedSourcePivot": {
+    "crs": "EPSG:2263",
+    "positionEncoding": "projected-metre-xy",
+    "absoluteProjectedMetres": [
+      299020.7765963921,
+      59963.672515437436
+    ],
+    "sourceNativeFeet": [
+      981037.3312166631,
+      196730.815577731
+    ]
+  },
+  "groundInterfaceBinding": "Separate authored front entrance/foundations and rear service-door apron fitted to the pinned official terrain. Compatibility placement is not a conversion of the unknown building datum.",
+  "parts": [
+    {
+      "id": "02_broad_colonnade",
+      "nodeIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "03_broad_curtain_wall",
+      "nodeIndices": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "04_broad_entablature",
+      "nodeIndices": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "05_broad_pediment",
+      "nodeIndices": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "06_pediment_figures",
+      "nodeIndices": [
+        10
+      ]
+    },
+    {
+      "id": "07_upper_facade_and_parapet",
+      "nodeIndices": [
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "id": "08_south_wing",
+      "nodeIndices": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "09_new_street_podium",
+      "nodeIndices": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "id": "10_new_street_colonnade",
+      "nodeIndices": [
+        25,
+        26
+      ]
+    },
+    {
+      "id": "11_new_street_glazing",
+      "nodeIndices": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "id": "12_new_street_attic",
+      "nodeIndices": [
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "id": "13_party_walls",
+      "nodeIndices": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "14_roof_and_lightwell",
+      "nodeIndices": [
+        37,
+        38,
+        39
+      ]
+    },
+    {
+      "id": "16_optional_attachments",
+      "nodeIndices": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "id": "retained-podium",
+      "nodeIndices": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-0",
+      "nodeIndices": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-0.foundation",
+      "nodeIndices": [
+        61
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-2",
+      "nodeIndices": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-2.foundation",
+      "nodeIndices": [
+        68
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-3",
+      "nodeIndices": [
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-3.foundation",
+      "nodeIndices": [
+        74
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-4",
+      "nodeIndices": [
+        75,
+        76,
+        77,
+        78,
+        79
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-4.foundation",
+      "nodeIndices": [
+        80
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-6",
+      "nodeIndices": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "id": "nyse.entry.bay-6.foundation",
+      "nodeIndices": [
+        87
+      ]
+    },
+    {
+      "id": "independent-perimeter-foundation",
+      "nodeIndices": [
+        88
+      ]
+    }
+  ],
+  "modelSha256": "f6d327cfead5404e07f4bff11bbb95e5788ea432cf1b64e435080a34dc333d29",
+  "automaticTerrainRescale": false,
+  "projectedTerrainPlacement": {
+    "crs": "EPSG:2263",
+    "storedHorizontalUnit": "metre",
+    "terrainVerticalProfile": "NAVD88-metres",
+    "projectedAnchorMetres": [
+      299067.31046587933,
+      59982.27556480719
+    ],
+    "localGltfToAnchorRelativeProjectedRightHandedMatrixRows": [
+      [
+        0.9999980037100613,
+        0,
+        -0.00012671406148001552,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        4.54945389890987
+      ],
+      [
+        0.00012671577860601246,
+        0,
+        0.9999980002103257,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "rightHandedProjectedAxes": "X projected East, Y Up, Z projected South; horizontal origin is projectedAnchorMetres and height origin is NAVD88 zero",
+    "heightValueStatus": "Authored compatibility placement tested against the pinned terrain; not evidence of a datum conversion for the unknown 2014 building source.",
+    "horizontalMethod": "Finite-difference ENU-to-EPSG:2263 basis, independently checked against nonlinear reprojection of every actual position after each node rotation and translation.",
+    "maximumCheckedVertexApproximationErrorMetres": 4.902061857438549e-07,
+    "checkedPositionVertices": 2559532,
+    "errorScope": "Maximum over this asset vertex set; not a continuous bound or survey precision. Matrix includes declared CRS basis conversion, not an artistic rescale."
+  }
+}

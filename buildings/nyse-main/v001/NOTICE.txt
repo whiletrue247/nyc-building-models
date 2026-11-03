@@ -1,0 +1,14 @@
+Original reconstruction artwork: NYC Building Models contributors / whiletrue247, CC BY 4.0, https://github.com/whiletrue247/nyc-building-models . Credit the project and license, preserve source attribution and identify modifications.
+
+Source-informed envelopes: NYC OTI (formerly DoITT), 3-D Building Model, 2014 aerial survey / April 18, 2016 publication. Independently reconstructed openings, ornament and procedural materials are artist estimates. No downloaded third-party building mesh or research photographs are included.
+Official metadata: https://github.com/CityOfNewYork/nyc-geo-metadata/blob/main/Metadata/Metadata_3DBuildingModel.md
+NYC public-use policies: https://cityofnewyork.github.io/opendatatsm/publicpolicies.html
+Terms: https://data.cityofnewyork.us/stories/s/Terms-of-Use/k9k7-3cje
+Initial source conversion: https://github.com/JoeThunyathep/NYC3D_CesiumJS , revision df20a24582520dd856e56e99ae44e3ff43ab3269. Its MIT code license does not replace City data terms; no converter code is distributed.
+
+Data and reconstruction are supplied without surveying, engineering, current-condition or device-performance warranty. Original building datum is unknown; placement compatibility does not establish NAVD88 for that source. No City, owner or depicted-organization endorsement is implied. Original-contribution CC BY does not relicense upstream datasets or grant third-party trademark rights.
+
+Entry paving is independently authored against the pinned NYC source support geometry. Terrain reference: NYC Topobathymetric 2017 DEM, NYS ITS Geospatial Services, NAVD88 / Geoid 12B; source terrain is not bundled or altered. https://elevation.its.ny.gov/arcgis/rest/services/NYC_TopoBathymetric_2017_1_meter/ImageServer . Sidewalk reference: NYC planimetric source geometry; source data terms remain separate from the original-contribution license.
+
+NYSE roof artwork uses 2017 NOAA-distributed point-cloud observations and 2024 NYS official aerial imagery as private visual references; those datasets or photo pixels are not embedded in the model. Roof geometry and steel details are author estimates.
+US flag artwork source: US Department of State ECA, https://eca.state.gov/files/bureau/flag_color.zip ; original-contribution licensing does not imply ownership of government artwork or marks. Flags are static authored settled meshes, without simulation code.
