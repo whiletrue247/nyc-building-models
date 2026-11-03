@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "100-broadway",
+  "name": "100 Broadway | American Surety Building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "294c83a07bf0cc398ba41c8d35b648d677daae0bc6db0ef674566b6627fdf2fe",
+  "bytes": 117763556,
+  "triangles": 2449585,
+  "meshNodes": 39,
+  "materialCount": 13,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; verified existing material-only input repairs normal wiring; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position and unknown datum retained; only existing lower entry bands registered to independent fixed floors and upper transoms shortened within unchanged opening heads. Other art retained; obsolete flat estimated thresholds replaced where listed. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.294988.part.100-broadway",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.294988",
+    "bin": "1001024",
+    "sourceId": "21210000169",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_QUZ9YGYSPO0DPPGXAD75AQEO438CEQYH9E6C",
+    "sourceMeshSha256": "75dd23e781b4c20ffaf8631cb3d840c4ce34b6bc1355fcf8243a3450102847b9",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "100-broadway",
+    "nativeRecordId": "gml_QUZ9YGYSPO0DPPGXAD75AQEO438CEQYH9E6C"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 97,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "2449585 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/100-broadway-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/100-broadway-v001/100-broadway-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "cc2e987d16b3ef057ffb317c58be12ee50fc36af2ff61b85cb98020f2c8d8066",
+    "bytes": 38719030
+  }
+}
