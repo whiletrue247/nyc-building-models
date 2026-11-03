@@ -463,6 +463,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "1-wall",
+      "name": "1 Wall Street | Irving Trust tower and south annex",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/1-wall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/1-wall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/1-wall-v001/1-wall-v001.zip",
+          "sha256": "0fdae196e605d5fe3fd668ce532dcee578228d77b6a067ad0b8c8a1446a51c31",
+          "modelSha256": "8076e9f157f9c625f9a360dc5971de49c65a0b0079c8b3f95e23dd61424ac016",
+          "bytes": 20115776,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
