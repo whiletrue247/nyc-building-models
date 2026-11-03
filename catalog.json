@@ -589,6 +589,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "30-broad",
+      "name": "30 Broad Street / Continental Bank Building / BIN1000819",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/30-broad/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/30-broad-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/30-broad-v001/30-broad-v001.zip",
+          "sha256": "c36a547f43b6ddd42658f3a96cd02b9023b0fabe9b9f1067ec00c3896ee5cf8a",
+          "modelSha256": "0c7da1cf41596a7a94a3cb5839578e29e2798e6aeaee4f32a1f377ce72d5abae",
+          "bytes": 9951183,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
