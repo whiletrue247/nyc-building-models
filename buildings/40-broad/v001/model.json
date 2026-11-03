@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "40-broad",
+  "name": "40BroadStreet | Setai current conversion exterior study",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "fdca42fde8d83ccebe9bf9b547e5c3d6eacf84fbe12648797051212da96f5b7b",
+  "bytes": 7795536,
+  "triangles": 103447,
+  "meshNodes": 39,
+  "materialCount": 22,
+  "embeddedImages": 7,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; verified existing material-only input repairs normal wiring; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position, artist geometry and unknown datum retained. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.173269.part.40-broad",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.173269",
+    "bin": "1078985",
+    "sourceId": "21210002160",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_DMHL97P62R4R4S5HMO4ZTRS7LWURG8AKE9NV",
+    "sourceMeshSha256": "81111a3e4c190774f2107abea0544c41e192fa0971423b5226061c7346535d7f",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "40-broad",
+    "nativeRecordId": "gml_DMHL97P62R4R4S5HMO4ZTRS7LWURG8AKE9NV"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 7,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 113,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "103447 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/40-broad-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/40-broad-v001/40-broad-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "e15b17a94db3f047c9f021ff16a8c95ba8f6901708ce5bf0b76e30987a8a5ab9",
+    "bytes": 3223993
+  }
+}
