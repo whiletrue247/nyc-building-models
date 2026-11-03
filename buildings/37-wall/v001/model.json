@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "37-wall",
+  "name": "37 Wall Street / Trust Company of America Building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "8d33e6c5bee0380573b019459bb48ee3ae0f28506728bf5815658bebfd8e2ad6",
+  "bytes": 30954688,
+  "triangles": 439458,
+  "meshNodes": 47,
+  "materialCount": 19,
+  "embeddedImages": 12,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with two independent estimated source-bound entrance floors and registered door/portal artwork. Basic four-side and obvious ground-contact review only; source roofs, whole-building position and unknown datum retained. No new game install, working interior or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "knownLimitations": [
+    "All detailed dimensions, floor pitches and ornament profiles are artist estimates within the retained source envelope, not a facade survey",
+    "Current dated photos show front only; rear, parties and roof service details unverified",
+    "Sculpted putti, lion masks and cartouches are original carving studies, not scans or exact likenesses",
+    "No invented source connection to43ExchangePlace: both source footprints remain separate and their3.4545m gap is not bridged",
+    "Source datum and nominal317ft/327ft/99ft description endpoints unresolved; never scale the source to textual figures",
+    "No playable threshold, collision/navigation, main-game publication, Quest hardware or current2026-10survey",
+    "Two doorway and residential portal artist assemblies have estimated independent ground registration. Original source body remains below grade; no surveyed entrance height, interior or operating door is supplied.",
+    "Unobserved side/service conditions and relief likeness remain estimated; plain color flag studies contain no approved brand graphics and have no cloth simulation."
+  ],
+  "assetId": "building.nyc.doitt.117108.part.37-wall",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.117108",
+    "bin": "1078992",
+    "sourceId": "21210000933",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_9ALT3NBFNIAB5NUNJWLHEZSDQUMDIU35EWWI",
+    "sourceMeshSha256": "77f38a7fc7927978a4387ba6f2c1aee76beec1bf23272114fe34865d1f02d5a6",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "37-wall",
+    "nativeRecordId": "gml_9ALT3NBFNIAB5NUNJWLHEZSDQUMDIU35EWWI"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 12,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 122,
+  "relatedBuildings": [
+    {
+      "id": "43-exchange",
+      "relation": "43-49 Exchange Place is a separate source building and asset; no working shared corridor is inferred."
+    }
+  ],
+  "compatibilityNotes": [
+    "439458 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/37-wall-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/37-wall-v001/37-wall-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "eb6c41a8bd831a807d73be6b47a839d838f5475b092f6cff22f79f421486845a",
+    "bytes": 13822032
+  }
+}
