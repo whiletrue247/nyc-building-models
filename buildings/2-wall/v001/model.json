@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "2-wall",
+  "name": "2 Wall Street | First National Bank Building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "fb84402683cc7407e5d7f4da3bcc76599bb8f214d3d917af48f15e4acbc0badb",
+  "bytes": 14354364,
+  "triangles": 208345,
+  "meshNodes": 36,
+  "materialCount": 14,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; verified existing material-only input repairs normal wiring; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position and unknown datum retained; only existing lower entry bands registered to independent fixed floors and upper transoms shortened within unchanged opening heads. Other art retained; obsolete flat estimated thresholds replaced where listed. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.648643.part.2-wall",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.648643",
+    "bin": "1001023",
+    "sourceId": "21210001515",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_NKKZK1O0D6QX1F51AJ40OARWMPI996B48A3S",
+    "sourceMeshSha256": "4a6546c2faf3cef529be30bca12b87f66d9a475da84d417b6fd46c247360096c",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "2-wall",
+    "nativeRecordId": "gml_NKKZK1O0D6QX1F51AJ40OARWMPI996B48A3S"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 114,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "208345 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/2-wall-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/2-wall-v001/2-wall-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "83d43af92259ad714e0d7bb83d6edf409ff25d67cce669256979821fbf578d15",
+    "bytes": 5819057
+  }
+}
