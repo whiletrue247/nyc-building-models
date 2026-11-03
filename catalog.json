@@ -229,6 +229,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "40-exchange",
+      "name": "40 Exchange Place / Lord's Court Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/40-exchange/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/40-exchange-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/40-exchange-v001/40-exchange-v001.zip",
+          "sha256": "d2263b52b38b5f7856db6e2db5bd173d2cdcc11e8692f69042a7d7ae00943936",
+          "modelSha256": "ff67ebd6301d72e3852197ef37617b14776ce8008f6469624718da11180d6b13",
+          "bytes": 12251565,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
