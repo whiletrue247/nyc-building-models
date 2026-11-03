@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "65-broadway",
+  "name": "65 Broadway / American Express Company Building / BIN1000809",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "1c116fef87119ea3ab29451479f14a4cabca378c50c047d1d46339bfc59d09da",
+  "bytes": 41257420,
+  "triangles": 870097,
+  "meshNodes": 47,
+  "materialCount": 17,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; original master material inputs audited separately; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position and unknown datum retained; only named lower entry artwork registered to independently bound floors, other art preserved. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.306236.part.65-broadway",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.306236",
+    "bin": "1000809",
+    "sourceId": "21210001814",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_QAU2UHAIUER0IZMF3J1ZM0OUAQH4J9CGS6ME",
+    "sourceMeshSha256": "c00445dfb43655628684cd1309c3ea04e4632903d6c6720dadc4038aa7fbdb6e",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "65-broadway",
+    "nativeRecordId": "gml_QAU2UHAIUER0IZMF3J1ZM0OUAQH4J9CGS6ME"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 282,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "870097 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/65-broadway-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/65-broadway-v001/65-broadway-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "a162a40e7baf7fde9e91ea9a4981b45665296d84fee2c193280b87bdcc2bdfee",
+    "bytes": 16231116
+  }
+}

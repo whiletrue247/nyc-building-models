@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "buildingId": "65-broadway",
+  "assetAxes": "right-handed X East, Y Up, Z South",
+  "units": "metres",
+  "coordinateFrame": "nyc.enu-ground.navd88.2017.v1",
+  "terrainRelease": "nyc.ground.2017.2m.v1",
+  "terrainCatalogSha256": "31ca7eb3aee13e6b07c7cc665b5228e5fb17fbed2688d98e652135b4d84f3fae",
+  "frameAxes": "X East, Y Up, Z North",
+  "horizontalFrameOriginWgs84": {
+    "longitude": -74.0111,
+    "latitude": 40.7069,
+    "ellipsoidHeight": 0
+  },
+  "rawGltfCoordinatesToFrameMatrixRows": [
+    [
+      1,
+      0,
+      0,
+      -165.266366654413
+    ],
+    [
+      0,
+      1,
+      0,
+      0.7795885086059569
+    ],
+    [
+      0,
+      0,
+      -1,
+      19.672483960454876
+    ],
+    [
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "rightHandedFrameRepresentation": {
+    "axes": "X East, Y Up, Z South",
+    "modelTranslation": [
+      -165.266366654413,
+      0.7795885086059569,
+      -19.672483960454876
+    ],
+    "rotationQuaternion": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "scale": [
+      1,
+      1,
+      1
+    ]
+  },
+  "geographicAnchor": {
+    "crs": "EPSG:2263",
+    "crsNativeUnit": "US survey foot",
+    "storedHorizontalUnit": "metre",
+    "nativeUnitToMetres": 0.3048006096012192,
+    "absoluteProjectedMetres": [
+      298896.71299876703,
+      60010.369615851756
+    ]
+  },
+  "buildingSourceHeight": {
+    "metres": 6.824302673339844,
+    "profile": "nyc.oti.citygml2014.native-z",
+    "datumStatus": "unknown"
+  },
+  "groundInterfaceBinding": "Independent authored foundations, stairs and paving bound to the specified official terrain/support revision; placement compatibility is not a source-datum conversion.",
+  "parts": [
+    {
+      "id": "entry-art",
+      "nodeIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ]
+    },
+    {
+      "id": "master",
+      "nodeIndices": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "id": "entry-interfaces",
+      "nodeIndices": [
+        43,
+        44,
+        45,
+        46
+      ]
+    }
+  ],
+  "modelSha256": "1c116fef87119ea3ab29451479f14a4cabca378c50c047d1d46339bfc59d09da",
+  "automaticTerrainRescale": false,
+  "projectedTerrainPlacement": {
+    "crs": "EPSG:2263",
+    "storedHorizontalUnit": "metre",
+    "terrainVerticalProfile": "NAVD88-metres",
+    "projectedAnchorMetres": [
+      298896.7129987669,
+      60010.36961585033
+    ],
+    "localGltfToAnchorRelativeProjectedRightHandedMatrixRows": [
+      [
+        0.9999979926506057,
+        0,
+        -0.00012678018538281322,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        6.824302673339844
+      ],
+      [
+        0.00012677983613684773,
+        0,
+        0.9999979936837917,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1
+      ]
+    ],
+    "rightHandedProjectedAxes": "X projected East, Y Up, Z projected South; horizontal origin is projectedAnchorMetres and height origin is NAVD88 zero",
+    "heightValueStatus": "Authored compatibility placement tested against the pinned terrain; not evidence of a datum conversion for the unknown 2014 building source.",
+    "horizontalMethod": "Finite-difference ENU-to-EPSG:2263 basis, independently checked against nonlinear reprojection of every actual position after each node rotation and translation.",
+    "maximumCheckedVertexApproximationErrorMetres": 9.313911211917607e-07,
+    "checkedPositionVertices": 837296,
+    "errorScope": "Maximum over this asset vertex set; not a continuous bound or survey precision. Matrix includes declared CRS basis conversion, not an artistic rescale."
+  }
+}
