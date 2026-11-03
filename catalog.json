@@ -247,6 +247,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "25-broad",
+      "name": "25 Broad Street / Broad Exchange Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/25-broad/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/25-broad-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/25-broad-v001/25-broad-v001.zip",
+          "sha256": "7765847b96f47eb5ad6956b240baf3f355b5ac010926d35a688265df6383cefc",
+          "modelSha256": "6de3f8e295163a4caa61614a3c0628866140341b1f49d5eb2948c75054498750",
+          "bytes": 21641352,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
