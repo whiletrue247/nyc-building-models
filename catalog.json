@@ -103,6 +103,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "federal-hall",
+      "name": "Federal Hall National Memorial / present 1842 building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/federal-hall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/federal-hall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/federal-hall-v001/federal-hall-v001.zip",
+          "sha256": "5e914a7666952810cd530e21144314dd8992b3ae86c21fe96400d2a7e2fe0caf",
+          "modelSha256": "a608edf44679522c2e418a5cbf97d11cdc76e0c7a687ae779d046aeb3af5f124",
+          "bytes": 16387460,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
