@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "45-wall-atlantic",
+  "name": "45 Wall Street / Atlantic Building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "cb022f348607b6795409a49d73d16a6db748f589ae748bb3e014e3298da3c99c",
+  "bytes": 17662912,
+  "triangles": 196587,
+  "meshNodes": 33,
+  "materialCount": 21,
+  "embeddedImages": 12,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with four independent estimated source-bound entrance floors, registered door hardware and raised canopy clearance. Basic four-side and obvious ground-contact review only; source roofs, whole-building position and unknown datum retained. No new game install, working interior or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.838301.part.45-wall-atlantic",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.838301",
+    "bin": "1000826",
+    "sourceId": "21210001209",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_DZQVPDFZ28HGM3MJRBXQ0B7F00VL9S261B4E",
+    "sourceMeshSha256": "c9a5d2fe903f54496070305e048e6af59976f02f8d957e923382c1a9ef1e7726",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "45-wall-atlantic",
+    "nativeRecordId": "gml_DZQVPDFZ28HGM3MJRBXQ0B7F00VL9S261B4E"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 12,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 298,
+  "relatedBuildings": [
+    {
+      "id": "43-exchange",
+      "relation": "Neighboring independent asset; no shared interior or traversal inferred."
+    }
+  ],
+  "compatibilityNotes": [
+    "196587 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/45-wall-atlantic-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/45-wall-atlantic-v001/45-wall-atlantic-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "c0a7a3b0a237aab866132745ac0513a586ba15526bb477dba4ae5fb2c0402094",
+    "bytes": 6081270
+  }
+}
