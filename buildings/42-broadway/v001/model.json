@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "42-broadway",
+  "name": "42 Broadway | Henry Ives Cobb 1902\u201304 exterior study",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "bd688c8ecff8261765bb581cde9c438fee8ef8d2195a7514c6335701bbf49e08",
+  "bytes": 26335900,
+  "triangles": 365734,
+  "meshNodes": 44,
+  "materialCount": 16,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; verified existing material-only input repairs normal wiring; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position and unknown datum retained; only registered lower entry artwork and two contained upper window fields revised to clear fixed terrain, all other art protected. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.295448.part.42-broadway",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.295448",
+    "bin": "1000812",
+    "sourceId": "21210003216",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_QS4LSLJC39DRPTBU2TM405RIJP0IJSQ5UMWI",
+    "sourceMeshSha256": "c950cfce12a81c8cdc3bf3aa6ba00534f2d471b6f6500b63c51e48b6b45ac6d1",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "42-broadway",
+    "nativeRecordId": "gml_QS4LSLJC39DRPTBU2TM405RIJP0IJSQ5UMWI"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 295,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "365734 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/42-broadway-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/42-broadway-v001/42-broadway-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "40bc0e40782a1f84f793f0bb577a90e2df3deb90b0b03a9d95d64809a1696a19",
+    "bytes": 11979931
+  }
+}
