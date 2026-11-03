@@ -643,6 +643,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "71-broadway",
+      "name": "71 Broadway | Empire Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/71-broadway/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/71-broadway-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/71-broadway-v001/71-broadway-v001.zip",
+          "sha256": "43ad983d6cada5a246ef7b0e1c78d5bc24048f03d60974b3fb72bad6eb0c342d",
+          "modelSha256": "cfcc4201793533a300216a44c7a3edbe6b5be26fb8bd4e9ea3fb4448c38456b6",
+          "bytes": 32684916,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
