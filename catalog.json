@@ -391,6 +391,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "120-broadway",
+      "name": "120 Broadway | Equitable Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/120-broadway/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/120-broadway-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/120-broadway-v001/120-broadway-v001.zip",
+          "sha256": "f711d17a501921bcc12e0c647e95d131f5e8160861b3a3af425017aaac47b909",
+          "modelSha256": "6ab42beaff2671adf87ed5057a7b9a79c557a005d5f3065f17a5386875cb1123",
+          "bytes": 34653085,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
