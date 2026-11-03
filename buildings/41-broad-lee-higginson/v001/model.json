@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "41-broad-lee-higginson",
+  "name": "41 Broad Street / Lee-Higginson Bank Building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "3663aa8f3eae08b62636c385f1ae0cbef76c859c5e15bd3c7942e2203b18bf0f",
+  "bytes": 23861180,
+  "triangles": 468943,
+  "meshNodes": 23,
+  "materialCount": 12,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with two independent estimated source-bound entry floors and one rear wall-footing strip; retained material-only revision repairs two normal inputs; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position, artist geometry and unknown datum retained. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.508945.part.41-broad-lee-higginson",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.508945",
+    "bin": "1000823",
+    "sourceId": "21210000229",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_0OWI1WW42YBBCAJX3ZUHYRV3M6QDO6ZSHWBN",
+    "sourceMeshSha256": "bc8bae2949aa25e9e5b3105398de9bcdd7560d850d058bb0ccfac327ed3ec079",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "41-broad-lee-higginson",
+    "nativeRecordId": "gml_0OWI1WW42YBBCAJX3ZUHYRV3M6QDO6ZSHWBN"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 94,
+  "relatedBuildings": [
+    {
+      "id": "25-broad",
+      "relation": "25 Broad Street is a separate neighboring asset; no shared interior is inferred."
+    }
+  ],
+  "compatibilityNotes": [
+    "468943 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/41-broad-lee-higginson-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/41-broad-lee-higginson-v001/41-broad-lee-higginson-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "906a5cffbef06d0f05587a21305f26c8db771baeae4cd7b474d8a933335136d4",
+    "bytes": 11003605
+  }
+}
