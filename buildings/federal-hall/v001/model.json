@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "federal-hall",
+  "name": "Federal Hall National Memorial / present 1842 building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "a608edf44679522c2e418a5cbf97d11cdc76e0c7a687ae779d046aeb3af5f124",
+  "bytes": 41612728,
+  "triangles": 1012640,
+  "meshNodes": 43,
+  "materialCount": 12,
+  "embeddedImages": 8,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Static full exterior artwork with original UV/materials/textures, retained front interface, north foundation closure, explicitly estimated north approach, and static gravity-settled flag. Not a survey or new gameplay installation.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "knownLimitations": [
+    "Horizontal module registration, window/door sizes and current east facade",
+    "Roof lantern size and modern roof fixtures",
+    "Sculpture likeness, relief motifs and weathering are independent original studies",
+    "Entrance/grade interfaces are source-relative artist estimates, not surveyed terrain or playable entries",
+    "The three added north approach steps are an explicit estimated static interface; current stair count is not surveyed.",
+    "The flag is a static no-wind snapshot without runtime cloth or weather code."
+  ],
+  "sourceHeightEvidence": {
+    "sourceFlatRoofMetres": 20.41423511505127,
+    "artistRidgeMetres": 20.564475,
+    "sourceHeightConflictResolved": false,
+    "originalDatum": "unknown",
+    "note": "Roof ornaments, rooflights and pole extend above the ridge. Surveyed current condition and total source/art height are not reconciled."
+  },
+  "assetId": "building.nyc.doitt.852227.part.federal-hall",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.852227",
+    "bin": "1001020",
+    "sourceId": "21210001187",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_DZ464LE2269YZ7CDRGUHNAL4JQZQRR1ID4FC",
+    "sourceMeshSha256": "43158820231c1fe03f18231f431ed5d6565dad0df442f689c4795a4c13cd56f1",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "federal-hall",
+    "nativeRecordId": "gml_DZ464LE2269YZ7CDRGUHNAL4JQZQRR1ID4FC"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 7,
+    "packedImages": 8,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 535,
+  "relatedBuildings": [
+    {
+      "id": "nyse-main",
+      "relation": "The New York Stock Exchange across Wall Street is a separate building and model."
+    }
+  ],
+  "compatibilityNotes": [
+    "1012640 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/federal-hall-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/federal-hall-v001/federal-hall-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "5e914a7666952810cd530e21144314dd8992b3ae86c21fe96400d2a7e2fe0caf",
+    "bytes": 16387460
+  }
+}

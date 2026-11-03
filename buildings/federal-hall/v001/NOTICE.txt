@@ -1,0 +1,11 @@
+Original reconstruction artwork: NYC Building Models contributors / whiletrue247, CC BY 4.0, https://github.com/whiletrue247/nyc-building-models . Credit the project and license, preserve source attribution and identify modifications.
+
+Source-informed envelope: NYC OTI (formerly DoITT), 3-D Building Model, 2014 survey / 2016 publication. Original source geometry is retained separately; this is independent exterior artwork. City metadata: https://github.com/CityOfNewYork/nyc-geo-metadata/blob/main/Metadata/Metadata_3DBuildingModel.md . Terms: https://data.cityofnewyork.us/stories/s/Terms-of-Use/k9k7-3cje . Initial source conversion: https://github.com/JoeThunyathep/NYC3D_CesiumJS , revision df20a24582520dd856e56e99ae44e3ff43ab3269; its code license does not replace City data terms. No converter code is included.
+
+HABS NY-470 drawings, NPS building views, BCA conservation photographs and the Met public-domain Ward bronze-sketch reference informed the original artwork: https://www.loc.gov/pictures/item/ny0363/ ; https://www.nps.gov/feha/ ; https://bcausa.com/federal-hall-national-memorial ; https://www.metmuseum.org/art/collection/search/13138 . Research photographs and drawings are not embedded or redistributed here. Statue likeness, reliefs, rooflights, unobserved faces and current condition remain artist estimates.
+
+Source-bound independent entrance surfaces reference NYC/NYS 2017 source terrain and the retained derived sidewalk: https://elevation.its.ny.gov/arcgis/rest/services/NYC_TopoBathymetric_2017_1_meter/ImageServer . Terrain bytes/heights are not modified or bundled. Original building datum remains unknown; compatible authored placement is not a datum conversion. The added narrow north approach is an explicit static estimate, not a surveyed current stair count.
+
+Official US flag artwork: US Department of State ECA, https://eca.state.gov/files/bureau/flag_color.zip . Cloth is a static no-wind snapshot; no simulation scripts are included. Original-contribution CC BY does not imply ownership of government artwork, upstream data or marks.
+
+No surveying, engineering, current-condition or device-performance warranty. No City, owner or depicted-organization endorsement. High-detail static exterior only; no operating interior, collision/navigation code or Quest certification.
