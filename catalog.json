@@ -283,6 +283,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "15-william",
+      "name": "15 William Street / William Beaver House",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/15-william/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/15-william-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/15-william-v001/15-william-v001.zip",
+          "sha256": "83e4f104527a5d05988769b93d68cb9d5ccae98b8eb4c5326169aeae36ac4886",
+          "modelSha256": "2f80e8dba7a03f273cf9ba5e4cf4db5b758b49989ef49689039dab7e8ce9046b",
+          "bytes": 9377052,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
