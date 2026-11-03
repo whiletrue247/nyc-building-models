@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "25-broad",
+  "name": "25 Broad Street / Broad Exchange Building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "6de3f8e295163a4caa61614a3c0628866140341b1f49d5eb2948c75054498750",
+  "bytes": 55319704,
+  "triangles": 1021271,
+  "meshNodes": 30,
+  "materialCount": 17,
+  "embeddedImages": 12,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with five independent source-bound wall-footing strips, four projecting-pedestal supports, two independent estimated entrance floors and localized lower aedicule registration; retained material-only revision corrects two normal inputs. Basic four-side and obvious ground-contact review only; source roofs, whole-building position and unknown datum retained. No new game install, working interior or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.487361.part.25-broad",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.487361",
+    "bin": "1000824",
+    "sourceId": "21210003633",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_BVGG8ENOV56F6SF8RG0CZD6M5JBZTT52SO0V",
+    "sourceMeshSha256": "68a46d736c281a5c864b3c67da43de5a6b2cdf842c1dfc1496e1b5ab07efb59e",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "25-broad",
+    "nativeRecordId": "gml_BVGG8ENOV56F6SF8RG0CZD6M5JBZTT52SO0V"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 12,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 191,
+  "relatedBuildings": [
+    {
+      "id": "43-exchange",
+      "relation": "Neighboring independent asset; no shared interior or traversal inferred."
+    }
+  ],
+  "compatibilityNotes": [
+    "1021271 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/25-broad-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/25-broad-v001/25-broad-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "7765847b96f47eb5ad6956b240baf3f355b5ac010926d35a688265df6383cefc",
+    "bytes": 21641352
+  }
+}
