@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "1-wall",
+  "name": "1 Wall Street | Irving Trust tower and south annex",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "8076e9f157f9c625f9a360dc5971de49c65a0b0079c8b3f95e23dd61424ac016",
+  "bytes": 106323944,
+  "triangles": 1410068,
+  "meshNodes": 58,
+  "materialCount": 22,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; verified existing material-only input repairs normal wiring; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position and unknown datum retained. Local existing door bands registered to fixed floors, one artist facade recompiled around explicitly raised estimated openings; only contained superseded estimated windows removed where listed. Other artwork retained; obsolete flat estimated thresholds replaced. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.153416.part.1-wall",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.153416",
+    "bin": "1000815",
+    "sourceId": "21210001469",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_VUU9MBJV07YV531MLDA74QJ1BDPPHMALDP9B",
+    "sourceMeshSha256": "04759e4a6a3eb4268641012ddeb8d7332bd7ce91094b9695abe587369394b78b",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "1-wall",
+    "nativeRecordId": "gml_VUU9MBJV07YV531MLDA74QJ1BDPPHMALDP9B"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 9,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 283,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "1410068 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/1-wall-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/1-wall-v001/1-wall-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "0fdae196e605d5fe3fd668ce532dcee578228d77b6a067ad0b8c8a1446a51c31",
+    "bytes": 20115776
+  }
+}
