@@ -625,6 +625,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "65-broadway",
+      "name": "65 Broadway / American Express Company Building / BIN1000809",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/65-broadway/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/65-broadway-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/65-broadway-v001/65-broadway-v001.zip",
+          "sha256": "a162a40e7baf7fde9e91ea9a4981b45665296d84fee2c193280b87bdcc2bdfee",
+          "modelSha256": "1c116fef87119ea3ab29451479f14a4cabca378c50c047d1d46339bfc59d09da",
+          "bytes": 16231116,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
