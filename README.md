@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**33 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**34 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -59,3 +59,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 42 Broadway | Henry Ives Cobb 1902–04 exterior study | [v001](buildings/42-broadway/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/42-broadway-v001/42-broadway-v001.zip) |
 | 60 Broad Street / stepped curtainwall tower / BIN1000817 | [v001](buildings/60-broad/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/60-broad-v001/60-broad-v001.zip) |
 | 30 Broad Street / Continental Bank Building / BIN1000819 | [v001](buildings/30-broad/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/30-broad-v001/30-broad-v001.zip) |
+| 61 Broadway / Adams Express Building / BIN1000808 | [v001](buildings/61-broad/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/61-broad-v001/61-broad-v001.zip) |

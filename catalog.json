@@ -607,6 +607,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "61-broad",
+      "name": "61 Broadway / Adams Express Building / BIN1000808",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/61-broad/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/61-broad-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/61-broad-v001/61-broad-v001.zip",
+          "sha256": "19bbef2a00c962f6f3dfdaec29cb4dd6c2686b6c50196259245a284a624b65ef",
+          "modelSha256": "28d352d7656046d17437d74bc6e112ac0b18d4524097f14ead00946e1db88fb8",
+          "bytes": 14718968,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
