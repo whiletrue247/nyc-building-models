@@ -445,6 +445,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "52-broadway",
+      "name": "52 Broadway | UFT modern Exchange Court conversion",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/52-broadway/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/52-broadway-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/52-broadway-v001/52-broadway-v001.zip",
+          "sha256": "4850a1b848ce10d2fae3765ff873cb919c3ca277fcaa47d957f84007c85763d3",
+          "modelSha256": "a26796105578232935ef4cec67e9d15855c29fcba3cd88771f3903b29d0d16e8",
+          "bytes": 2079998,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
