@@ -49,6 +49,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "20-broad",
+      "name": "20 Broad Street",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/20-broad/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/20-broad-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/20-broad-v001/20-broad-v001.zip",
+          "sha256": "8ed6ecdc2059d52fcc7800042ffbf09d7b8a654ad84a7af0b441726de23835b1",
+          "modelSha256": "cce66c836dc80df30ae9f5dc2f7b6b58d8544835321855eb987567f61e9650f7",
+          "bytes": 8080715,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
