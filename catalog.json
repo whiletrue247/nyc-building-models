@@ -553,6 +553,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "42-broadway",
+      "name": "42 Broadway | Henry Ives Cobb 1902\u201304 exterior study",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/42-broadway/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/42-broadway-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/42-broadway-v001/42-broadway-v001.zip",
+          "sha256": "40bc0e40782a1f84f793f0bb577a90e2df3deb90b0b03a9d95d64809a1696a19",
+          "modelSha256": "bd688c8ecff8261765bb581cde9c438fee8ef8d2195a7514c6335701bbf49e08",
+          "bytes": 11979931,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
