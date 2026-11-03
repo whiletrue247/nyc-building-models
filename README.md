@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**17 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**18 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -43,3 +43,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 41 Broad Street / Lee-Higginson Bank Building | [v001](buildings/41-broad-lee-higginson/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/41-broad-lee-higginson-v001/41-broad-lee-higginson-v001.zip) |
 | 15 William Street / William Beaver House | [v001](buildings/15-william/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/15-william-v001/15-william-v001.zip) |
 | 55 Wall Street / National City Bank / Cipriani | [v001](buildings/55-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/55-wall-v001/55-wall-v001.zip) |
+| 48 Wall Street / Bank of New York Building | [v001](buildings/48-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/48-wall-v001/48-wall-v001.zip) |

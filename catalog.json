@@ -319,6 +319,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "48-wall",
+      "name": "48 Wall Street / Bank of New York Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/48-wall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/48-wall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/48-wall-v001/48-wall-v001.zip",
+          "sha256": "2266633d116e642c35c0e4080b823e717beb08bd066e83e983d26c3e050d36cf",
+          "modelSha256": "1601ca7417ba56eb6234b19a7940632da85557fd84e0a7d1187be2efb33885b8",
+          "bytes": 14606364,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
