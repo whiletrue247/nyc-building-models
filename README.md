@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**6 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**7 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -32,3 +32,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 11 Wall Street / 1922 north annex | [v001](buildings/11-wall-annex/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/11-wall-annex-v001/11-wall-annex-v001.zip) |
 | New York Stock Exchange / 1903 main building | [v001](buildings/nyse-main/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/nyse-main-v001/nyse-main-v001.zip) |
 | Federal Hall National Memorial / present 1842 building | [v001](buildings/federal-hall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/federal-hall-v001/federal-hall-v001.zip) |
+| 14 Wall Street / Bankers Trust complex (tower and 1930s addition) | [v001](buildings/14-wall-complex/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/14-wall-complex-v001/14-wall-complex-v001.zip) |

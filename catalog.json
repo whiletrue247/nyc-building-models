@@ -121,6 +121,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "14-wall-complex",
+      "name": "14 Wall Street / Bankers Trust complex (tower and 1930s addition)",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/14-wall-complex/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/14-wall-complex-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/14-wall-complex-v001/14-wall-complex-v001.zip",
+          "sha256": "39984c77fb0d4cc14c5c581dd520cc458895f876d5305a2bbb8dc1462d132bbc",
+          "modelSha256": "07a6fa9c325970187e5fce4f1adb382ea05b66a96b298223e1e379f75ca8af09",
+          "bytes": 36499549,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
