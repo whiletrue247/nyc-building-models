@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "40-wall",
+  "name": "40 Wall Street / Bank of Manhattan Company Building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "3954d66bc653ba9c97d46c00bfce0c7a4cf09fe70e343c2ecb7cde8700cc4fe7",
+  "bytes": 66261364,
+  "triangles": 781174,
+  "meshNodes": 50,
+  "materialCount": 20,
+  "embeddedImages": 17,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Complete retained static tower with eighteen independent estimated plinth/glazing ground registrations and three Wall Street aprons/static rotors; source roofs/spire, XY envelope, whole-building position and original static flag retained. Unknown datum, estimated Pine glazing/unobserved conditions and source-height discrepancy remain explicit. No new game installation or surveyed current condition.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "knownLimitations": [
+    "Module sizes, floor/bay registration, all relief profiles and material values are artist estimates, not survey dimensions",
+    "1995 Pine/roof photos and1929 drawing are historical evidence; absent current surfaces remain provisional",
+    "Pine source-grade binding and ground glazing are authored compatibility estimates; surveyed thresholds, interiors, entrance stairs and neighbouring attachment conditions remain unverified",
+    "Source maximum and927ft description differ6.850662m; endpoints unresolved, source is not rescaled",
+    "No live-game/collision/navigation/Quest derivative or current2026as-built certification",
+    "Lower Wall/Pine glazing and plinths are estimated source-terrain compatibility artwork; Pine is fixed glazing, not a surveyed or operating entrance.",
+    "Three Wall Street revolving doors and one US flag are static artwork; no door motor, cloth/weather simulation, collider or navigation included.",
+    "Twelve roof glazing panels are applied surfaces, not real openings; untouched roof/spire positions retain the source height discrepancy."
+  ],
+  "assetId": "building.nyc.doitt.77845.part.40-wall",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.77845",
+    "bin": "1001018",
+    "sourceId": "21210001048",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_F5QYX1OVW67AMG6LA7W06DGWHLNH92T6SBGU",
+    "sourceMeshSha256": "ba1ffe1d9802bda40ddb5bc843c6b778d8bbd437eac4e479cf047b8564ff1d08",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "40-wall",
+    "nativeRecordId": "gml_F5QYX1OVW67AMG6LA7W06DGWHLNH92T6SBGU"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 17,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 340,
+  "relatedBuildings": [
+    {
+      "id": "14-wall-complex",
+      "relation": "14 Wall Street / Bankers Trust is a separate building and asset."
+    }
+  ],
+  "compatibilityNotes": [
+    "781174 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/40-wall-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/40-wall-v001/40-wall-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "eb1f0d58af0e9e71c5e55c75205e921a9d66166e3887c62c5f88bca3bdf584af",
+    "bytes": 20916403
+  }
+}
