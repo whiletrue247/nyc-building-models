@@ -26,7 +26,6 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 
 | Building | Version | Download |
 | --- | --- | --- |
-
 | 15 Broad Street | [v002](buildings/15-broad/v002/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/15-broad-v002/15-broad-v002.zip) |
 | 23 Wall Street | [v001](buildings/23-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/23-wall-v001/23-wall-v001.zip) |
 | 20 Broad Street | [v001](buildings/20-broad/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/20-broad-v001/20-broad-v001.zip) |
