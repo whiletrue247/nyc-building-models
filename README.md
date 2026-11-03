@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**9 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**10 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -35,3 +35,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 14 Wall Street / Bankers Trust complex (tower and 1930s addition) | [v001](buildings/14-wall-complex/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/14-wall-complex-v001/14-wall-complex-v001.zip) |
 | 30 Wall Street / former United States Assay Office | [v001](buildings/30-wall-assay/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/30-wall-assay-v001/30-wall-assay-v001.zip) |
 | 40 Wall Street / Bank of Manhattan Company Building | [v001](buildings/40-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/40-wall-v001/40-wall-v001.zip) |
+| 37 Wall Street / Trust Company of America Building | [v001](buildings/37-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/37-wall-v001/37-wall-v001.zip) |

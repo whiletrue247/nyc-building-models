@@ -175,6 +175,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "37-wall",
+      "name": "37 Wall Street / Trust Company of America Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/37-wall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/37-wall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/37-wall-v001/37-wall-v001.zip",
+          "sha256": "eb6c41a8bd831a807d73be6b47a839d838f5475b092f6cff22f79f421486845a",
+          "modelSha256": "8d33e6c5bee0380573b019459bb48ee3ae0f28506728bf5815658bebfd8e2ad6",
+          "bytes": 13822032,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
