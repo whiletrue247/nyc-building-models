@@ -1,0 +1,40 @@
+NYC Building Models / whiletrue247: original contributions CC BY4.0, https://github.com/whiletrue247/nyc-building-models . Credit the project, preserve source notices and identify modifications.
+
+Source envelope: NYC OTI (formerly DoITT), 3-D Building Model, 2014 survey /2016 publication. https://github.com/CityOfNewYork/nyc-geo-metadata/blob/main/Metadata/Metadata_3DBuildingModel.md ; City terms https://data.cityofnewyork.us/stories/s/Terms-of-Use/k9k7-3cje . Initial conversion https://github.com/JoeThunyathep/NYC3D_CesiumJS revision df20a24582520dd856e56e99ae44e3ff43ab3269 . Converter code is not included; its code license does not replace City terms.
+
+Trinity Church. One physical target. Retained original source geometry, roof/spire/height profile and geographic anchor. Independent estimated declarative facade/ornament studies and procedural PBR, with actual native normal wiring audited. Original contributions only are offered under CC BY4.0; do not claim ownership or relicense research photographs, historic sources or third-party reference models. No reference photo pixels, commercial mesh payloads, game code or player data redistributed. Partial/dated Street View, public architectural references and historical documents are research evidence, not a complete2026 survey. Entrances, stairs, doors and other unobserved details remain artist estimates and have no operating interior/runtime/accessibility/Quest certification.
+Research reference URLs (references only; no image/book/model payload bundled):
+https://www.mbbarch.com/work/trinity-wall-street/
+https://www.mbbarch.com/wp-content/uploads/2019/07/1_Trinity_Exterior-day-by-Colin-Winterbottom.jpg
+https://www.mbbarch.com/wp-content/uploads/2020/06/trn-309-312-Edit_LighterWall-1920x1409.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/MPoYbLBm/1/jpg/1372168784/1920x1080/fit_q87/c6b27c95379475b726aaedf02fb0095c99aa0fc7/1.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/NCRLfsxi/3/jpg/1372168784/1920x1080/fit_q87/7aa80fca4625e5a7b157e62ddfaa91f25dbb91e6/3.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/GNSctD82/2/jpg/1372168784/1920x1080/fit_q87/60fc960f52b4cc726004521a6247de63dcf2fcbe/2.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/dEoD8Hx6/4/jpg/1372168784/1920x1080/fit_q87/3e98cc92d78054be463ec2d51eafc0ef26813c9c/4.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/ccCgTvz1/5/jpg/1372168784/1920x1080/fit_q87/625f4149f2c924dd29045027e58f55649585c85f/5.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/FmrqPy9n/6/jpg/1372168784/1920x1080/fit_q87/33adeba57e8501ac47f036f91a67a0ee5fe5f6cf/6.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/NtmxwcKs/7/jpg/1372168784/1920x1080/fit_q87/70b0e2cd41313a8d552dab5e72937251da6922cd/7.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/jYJryIGn/8/jpg/1372168784/1920x1080/fit_q87/395ec92f7a51606e24aabfb35555d3e2dda6707a/8.jpg
+https://p.turbosquid.com/ts-thumb/Il/pLCjKo/cHtZxs5M/9/jpg/1372168784/1920x1080/fit_q87/0ee8e848f658cda35af9cba1fd1d1f155d2bcf7f/9.jpg
+https://s-media.nyc.gov/agencies/lpc/lp/0048.pdf
+https://data.cityofnewyork.us/resource/5zhs-2jue.json?%24select=the_geom%2Cbin%2Cdoitt_id%2Cbase_bbl%2Cconstruction_year%2Cgeom_source%2Cground_elevation%2Cheight_roof%2Clast_edited_date&%24where=bin%3D1001028&%24limit=10
+https://data.cityofnewyork.us/resource/64uk-42ks.json?%24select=bbl%2Caddress%2Cnumfloors%2Cyearbuilt%2Cbldgfront%2Cbldgdepth%2Cnumbldgs%2Cversion%2Clotarea%2Cbldgarea&%24where=bbl%3D1000490001&%24limit=10
+https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=url%7Cextmetadata%7Ctimestamp%7Csize&format=json&titles=File%3AThe+Door+to+Trinity+Church%2C+Manhattan%2C+New+York+%287237009584%29.jpg%7CFile%3ATrinity+Church+%26+Graveyard+06.jpg%7CFile%3A%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84128.jpg%7CFile%3A%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84129.jpg&iiurlwidth=1280
+https://commons.wikimedia.org/w/api.php?action=query&prop=imageinfo&iiprop=url%7Cextmetadata%7Ctimestamp%7Csize&format=json&titles=File%3ASchevill+Karl+Bitter+Trinity+Gate.jpg%7CFile%3ASchevill+Karl+Bitter+New+York+City+Trinity+Gate+competition+panel.jpg
+https://archive.org/metadata/karlbitterbiogra00sche
+https://upload.wikimedia.org/wikipedia/commons/9/91/The_Door_to_Trinity_Church%2C_Manhattan%2C_New_York_%287237009584%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+https://upload.wikimedia.org/wikipedia/commons/f/ff/Trinity_Church_%26_Graveyard_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+https://upload.wikimedia.org/wikipedia/commons/c/c0/%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84128.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+https://upload.wikimedia.org/wikipedia/commons/3/39/%E7%BE%8E%E5%9C%8B%E7%B4%90%E7%B4%84129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+https://upload.wikimedia.org/wikipedia/commons/2/2a/Schevill_Karl_Bitter_New_York_City_Trinity_Gate_competition_panel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+https://upload.wikimedia.org/wikipedia/commons/9/92/Schevill_Karl_Bitter_Trinity_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original
+https://tile.loc.gov/storage-services/service/pnp/cph/3g10000/3g14000/3g14700/3g14786v.jpg
+https://archive.org/download/karlbitterbiogra00sche/karlbitterbiogra00sche.pdf
+https://archive.org/download/karlbitterbiogra00sche/karlbitterbiogra00sche_djvu.txt
+Locked source identity nyc.doitt.687794; original source vertical datum remains unknown.
+
+Independent estimated entrance floors and any listed wall-footing closures use unchanged NYC/NYS2017 source terrain: https://elevation.its.ny.gov/arcgis/rest/services/NYC_TopoBathymetric_2017_1_meter/ImageServer . Original source roof heights, building body geometry, UVs and whole-building position remain unchanged; separate supports and explicitly described local entry artwork may be revised. Terrain is not bundled, moved or flattened. Native building datum remains unknown; compatibility binding is not a datum conversion, field measurement or accessibility certification. Original body below grade is retained.
+
+Static high-detail exterior with estimated nonplayable entry backgrounds only; no game code, player data, operating door/interior, collision/navigation code, wind/cloth simulation, current as-built survey or Quest hardware certification. No City, owner, merchant or other organization endorsement.
+
+The prior unverified west.street-door artist proposal lies entirely below the fixed source terrain; its original artwork is retained undergrade, not presented as a validated street entrance. Three front portal interfaces are independently estimated; no surveyed or traversable west entrance is claimed.

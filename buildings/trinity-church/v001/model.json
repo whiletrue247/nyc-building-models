@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "trinity-church",
+  "name": "Trinity Church",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "7806cc885cf3f7c19e3d8e876c511ed520f88c59792c905ad564312a7f3c9790",
+  "bytes": 115966064,
+  "triangles": 2563147,
+  "meshNodes": 380,
+  "materialCount": 17,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; original master material inputs audited; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position, unknown datum retained; only named above-ground portal artwork registered to source-bound estimated floors, other artwork preserved. Entry interface basis derived explicitly from original declarative mapper. Unverified undergrade secondary entry proposals are not certified street entrances. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.687794.part.trinity-church",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.687794",
+    "bin": "1001028",
+    "sourceId": "21210002580",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_A5F1JRE0BMB4EMABLFGAHIO59WQG1FT8TN1B",
+    "sourceMeshSha256": "cf5b327e6f5dbdd0d5a0da4cd8a36ff60d601f2eb2bf5184167d24bb642f7934",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "trinity-church",
+    "nativeRecordId": "gml_A5F1JRE0BMB4EMABLFGAHIO59WQG1FT8TN1B"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 174,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "2563147 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/trinity-church-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/trinity-church-v001/trinity-church-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "070858dff81de722fc98ab503e749bcb3c1667007a0a5e7b5e0cd364f8f5d176",
+    "bytes": 44303605
+  }
+}
