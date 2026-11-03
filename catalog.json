@@ -355,6 +355,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "44-wall",
+      "name": "44 Wall Street | Atlantic Office of the Bank of America",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/44-wall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/44-wall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/44-wall-v001/44-wall-v001.zip",
+          "sha256": "415761f916b4ed35a6f683046f30845e5e43ea14cd0011570b265851cb8b5a2f",
+          "modelSha256": "6787b3e9499eda081d5f153310151b14d7f33995d2d1620a59b1aadb3eb68f20",
+          "bytes": 7832912,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
