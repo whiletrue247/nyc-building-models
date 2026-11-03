@@ -571,6 +571,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "60-broad",
+      "name": "60 Broad Street / stepped curtainwall tower / BIN1000817",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/60-broad/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/60-broad-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/60-broad-v001/60-broad-v001.zip",
+          "sha256": "b2d6f9e5b7fe75ba5f57cf7b6ae252271736900f5885185995d4c2ac007dce4c",
+          "modelSha256": "5b3c3562e6ff016846f18ce181b7df5ebd8c8053edf7ceb805a5f4a91590bc75",
+          "bytes": 8166410,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
