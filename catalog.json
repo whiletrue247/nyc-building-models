@@ -499,6 +499,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "44-new-street",
+      "name": "44(42\u201344)NewStreet | observed seven-storey exterior study",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/44-new-street/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/44-new-street-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/44-new-street-v001/44-new-street-v001.zip",
+          "sha256": "2a1a4aedef905b8071f35b5bc6e95ed8b52da73b26b36c0ebdb8a424ec82933f",
+          "modelSha256": "63a09cd13ea0ff9ea9d5fbf239f585f0072c01ec876bb692348ce44f6f5083ee",
+          "bytes": 4910385,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
