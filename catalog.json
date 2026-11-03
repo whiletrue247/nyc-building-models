@@ -301,6 +301,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "55-wall",
+      "name": "55 Wall Street / National City Bank / Cipriani",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/55-wall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/55-wall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/55-wall-v001/55-wall-v001.zip",
+          "sha256": "49ea2ab7efe23a1645556f6eca3c8d2a5c6a219469d092901b051946969fb443",
+          "modelSha256": "0f9aa02971a73a2d7cf80f2c16fea6e2fc7a8c8bc433187aa9d2d0754b2d9d72",
+          "bytes": 19344051,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
