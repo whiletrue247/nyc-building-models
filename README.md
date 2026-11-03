@@ -20,11 +20,12 @@ Each building has a stable identifier and independent released version history. 
 
 Original contributions are offered under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/), to the extent contributors can grant those rights. Credit the project, preserve applicable source attribution, link the license and identify changes. Third-party source terms are retained in each released asset's required notices. No endorsement by the City, building owners or depicted organizations is implied.
 
+The original 15 Broad v001 download was withdrawn for a local paving defect. Its version record is retained; use the corrected version in the available-model list.
+
 ## Available models
 
 | Building | Version | Download |
 | --- | --- | --- |
 
-The original 15 Broad v001 download was withdrawn for a local paving defect. Its version record is retained; use the corrected version in the available-model list.
 | 15 Broad Street | [v002](buildings/15-broad/v002/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/15-broad-v002/15-broad-v002.zip) |
 | 23 Wall Street | [v001](buildings/23-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/23-wall-v001/23-wall-v001.zip) |
