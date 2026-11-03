@@ -409,6 +409,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "100-broadway",
+      "name": "100 Broadway | American Surety Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/100-broadway/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/100-broadway-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/100-broadway-v001/100-broadway-v001.zip",
+          "sha256": "cc2e987d16b3ef057ffb317c58be12ee50fc36af2ff61b85cb98020f2c8d8066",
+          "modelSha256": "294c83a07bf0cc398ba41c8d35b648d677daae0bc6db0ef674566b6627fdf2fe",
+          "bytes": 38719030,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
