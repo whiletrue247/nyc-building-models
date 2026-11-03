@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "71-broadway",
+  "name": "71 Broadway | Empire Building",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "cfcc4201793533a300216a44c7a3edbe6b5be26fb8bd4e9ea3fb4448c38456b6",
+  "bytes": 88601156,
+  "triangles": 2150925,
+  "meshNodes": 94,
+  "materialCount": 7,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; original master material inputs audited; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position, unknown datum retained; only named above-ground portal artwork registered to source-bound estimated floors, other artwork preserved. Entry interface basis derived explicitly from original declarative mapper. Unverified undergrade secondary entry proposals are not certified street entrances. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.584348.part.71-broadway",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.584348",
+    "bin": "1000810",
+    "sourceId": "21210002660",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_NZLWE09X0NBC8LUW5SW3A60CZ0RZZR97YEW1",
+    "sourceMeshSha256": "f0545cb91c475b8c1af49f6d105e642981398399b8a08b677c3ec3afa389046a",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "71-broadway",
+    "nativeRecordId": "gml_NZLWE09X0NBC8LUW5SW3A60CZ0RZZR97YEW1"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 77,
+  "relatedBuildings": [],
+  "compatibilityNotes": [
+    "2150925 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/71-broadway-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/71-broadway-v001/71-broadway-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "43ad983d6cada5a246ef7b0e1c78d5bc24048f03d60974b3fb72bad6eb0c342d",
+    "bytes": 32684916
+  }
+}
