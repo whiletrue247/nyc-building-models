@@ -535,6 +535,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "50-broad",
+      "name": "50BroadStreet | Willauer Shape Bready twin tower exterior study",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/50-broad/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/50-broad-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/50-broad-v001/50-broad-v001.zip",
+          "sha256": "2a308d1391ff7aff8876860d686f8df8337d98c2850302f686d39d8c7c36d17b",
+          "modelSha256": "47b7a2c4ada7322312ac91f4843669ee2c6f622efc257c81eac259373bf7239e",
+          "bytes": 7120481,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }

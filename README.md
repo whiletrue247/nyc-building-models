@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**29 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**30 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -55,3 +55,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 50 Broadway | H. Craig Severance 1926–27 current exterior study | [v001](buildings/50-broadway/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/50-broadway-v001/50-broadway-v001.zip) |
 | 44(42–44)NewStreet | observed seven-storey exterior study | [v001](buildings/44-new-street/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/44-new-street-v001/44-new-street-v001.zip) |
 | 40BroadStreet | Setai current conversion exterior study | [v001](buildings/40-broad/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/40-broad-v001/40-broad-v001.zip) |
+| 50BroadStreet | Willauer Shape Bready twin tower exterior study | [v001](buildings/50-broad/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/50-broad-v001/50-broad-v001.zip) |
