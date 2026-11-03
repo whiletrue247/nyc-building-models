@@ -85,6 +85,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "nyse-main",
+      "name": "New York Stock Exchange / 1903 main building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/nyse-main/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/nyse-main-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/nyse-main-v001/nyse-main-v001.zip",
+          "sha256": "db10cb4ce94c13ed186a37169db374351abfc2cc9f44e9030f66cb3cbe109500",
+          "modelSha256": "f6d327cfead5404e07f4bff11bbb95e5788ea432cf1b64e435080a34dc333d29",
+          "bytes": 34410201,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }

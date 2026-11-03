@@ -2,7 +2,7 @@
 
 Downloadable, production-ready reconstructions of real New York City buildings, created with AI assistance and improved across successive released versions.
 
-**4 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
+**5 finished building release(s) available.** Only finished assets that pass exterior, material, portability and official-terrain compatibility acceptance will appear in the catalog. Development candidates and intermediate authoring files are not distributed here.
 
 ## Using a release
 
@@ -31,3 +31,4 @@ The original 15 Broad v001 download was withdrawn for a local paving defect. Its
 | 23 Wall Street | [v001](buildings/23-wall/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/23-wall-v001/23-wall-v001.zip) |
 | 20 Broad Street | [v001](buildings/20-broad/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/20-broad-v001/20-broad-v001.zip) |
 | 11 Wall Street / 1922 north annex | [v001](buildings/11-wall-annex/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/11-wall-annex-v001/11-wall-annex-v001.zip) |
+| New York Stock Exchange / 1903 main building | [v001](buildings/nyse-main/v001/model.json) | [Model ZIP](https://github.com/whiletrue247/nyc-building-models/releases/download/nyse-main-v001/nyse-main-v001.zip) |
