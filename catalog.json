@@ -139,6 +139,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "30-wall-assay",
+      "name": "30 Wall Street / former United States Assay Office",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/30-wall-assay/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/30-wall-assay-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/30-wall-assay-v001/30-wall-assay-v001.zip",
+          "sha256": "0d1d9907693bd7f1ef6cb92e3de7bef00581a98294788ea23b8ec27c78e0bf0e",
+          "modelSha256": "9bb5e3c7cd09d2a3605b317bf9372136a5c01b04ce37564a0472e271a13fa6d5",
+          "bytes": 11184700,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
