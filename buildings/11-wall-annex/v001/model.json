@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "11-wall-annex",
+  "name": "11 Wall Street / 1922 north annex",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "1ed3a6eb3c8d248e1af8aee0dd488ab7829a6e030b0ec45f895beb820166cbbb",
+  "bytes": 114713580,
+  "triangles": 1641277,
+  "meshNodes": 45,
+  "materialCount": 23,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Static 1922 annex exterior with source-bound estimated doorway, paving and shallow base closures; separate adjacent 1903 main building excluded. No interior or game code.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.570486.part.11-wall-annex",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.570486",
+    "bin": "1078982",
+    "sourceId": "21210001715",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_4WJVMCOE9EU4OFS54YJODBV9ZJPEA1BK8MWB",
+    "sourceMeshSha256": "d44d9d5c32a23d50bae3bed6fdd9b47ff7cacd4bcf9b3c2c90243f4bc53ed11f",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "11-wall-annex",
+    "nativeRecordId": "gml_4WJVMCOE9EU4OFS54YJODBV9ZJPEA1BK8MWB"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 6,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 65,
+  "relatedBuildings": [
+    {
+      "id": "nyse-main",
+      "relation": "Separate adjacent 1903 NYSE main landmark, excluded from this 1922 annex model."
+    }
+  ],
+  "compatibilityNotes": [
+    "1641277 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification.",
+    "Opaque southern party/return masonry is retained as estimated artwork; window absence is not verified as a current as-built condition."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/11-wall-annex-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/11-wall-annex-v001/11-wall-annex-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "6c360fdb1631f23c6232d6800e1aaf1983adfd9d885192d8f043af8d24f38eb9",
+    "bytes": 22407313
+  }
+}
