@@ -193,6 +193,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "43-exchange",
+      "name": "43-49 Exchange Place / Wall Street Exchange Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/43-exchange/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/43-exchange-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/43-exchange-v001/43-exchange-v001.zip",
+          "sha256": "2787e724c33216b47f3095b9cb51682a41cfaf5b5c85be9f1fbc6273fdf54d57",
+          "modelSha256": "e256e5c1e58e303036809b6966747f6b136358ffc807c184e2003b47cbc68c22",
+          "bytes": 10837198,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
