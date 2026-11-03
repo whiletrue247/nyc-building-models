@@ -157,6 +157,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "40-wall",
+      "name": "40 Wall Street / Bank of Manhattan Company Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/40-wall/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/40-wall-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/40-wall-v001/40-wall-v001.zip",
+          "sha256": "eb1f0d58af0e9e71c5e55c75205e921a9d66166e3887c62c5f88bca3bdf584af",
+          "modelSha256": "3954d66bc653ba9c97d46c00bfce0c7a4cf09fe70e343c2ecb7cde8700cc4fe7",
+          "bytes": 20916403,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
