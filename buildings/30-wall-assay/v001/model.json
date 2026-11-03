@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "30-wall-assay",
+  "name": "30 Wall Street / former United States Assay Office",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "9bb5e3c7cd09d2a3605b317bf9372136a5c01b04ce37564a0472e271a13fa6d5",
+  "bytes": 40729480,
+  "triangles": 615605,
+  "meshNodes": 28,
+  "materialCount": 14,
+  "embeddedImages": 10,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Complete retained static exterior with three independent estimated entrance surfaces, low foundation closures and corrected and partitioned artist cladding caps (winding/UV and removal of coplanar overlaps). Source envelope/roof coordinates, unaffected UV/material associations and authored static flags retained. Unknown source datum and unseen conditions remain explicit; not a current survey or new game installation.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "knownLimitations": [
+    "All module positions, floor heights, aperture sizes and stone profiles are proportional artist estimates within source-relative planes",
+    "Carved beings, small figures, capitals and foliage are original studies, not scans or exact likeness restoration",
+    "Party/rear elevations and roof equipment partly unobserved; source rooftop height retained without assigning unknown spaces as occupied floors",
+    "No current2026survey, playable entrances, collider/navigation, main-game publication or Quest hardware verification",
+    "Three authored United States flags retain static wind-shaped poses; no cloth or wind simulation is included.",
+    "Roof-cap winding, UV and overlap partition repairs affect artist cladding only. Immutable source roof positions and heights are retained.",
+    "Lower party/service walls and upper roof enclosures include intentionally plain estimated cladding; no unobserved window layout is asserted."
+  ],
+  "assetId": "building.nyc.doitt.608052.part.30-wall-assay",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.608052",
+    "bin": "1001019",
+    "sourceId": "21210003253",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_ZON8VQRZEWKA4L41O1HFT9XG7T78OREVGRSB",
+    "sourceMeshSha256": "62db175eed22490f8c434fc7413f02969c224a8c42610cec01e593bdcdbfde4e",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "30-wall-assay",
+    "nativeRecordId": "gml_ZON8VQRZEWKA4L41O1HFT9XG7T78OREVGRSB"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 10,
+    "packedImages": 10,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 313,
+  "relatedBuildings": [
+    {
+      "id": "federal-hall",
+      "relation": "Federal Hall is a separate building to the west along Wall Street."
+    }
+  ],
+  "compatibilityNotes": [
+    "615605 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/30-wall-assay-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/30-wall-assay-v001/30-wall-assay-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "0d1d9907693bd7f1ef6cb92e3de7bef00581a98294788ea23b8ec27c78e0bf0e",
+    "bytes": 11184700
+  }
+}
