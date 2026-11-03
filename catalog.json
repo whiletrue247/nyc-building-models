@@ -265,6 +265,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "41-broad-lee-higginson",
+      "name": "41 Broad Street / Lee-Higginson Bank Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/41-broad-lee-higginson/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/41-broad-lee-higginson-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/41-broad-lee-higginson-v001/41-broad-lee-higginson-v001.zip",
+          "sha256": "906a5cffbef06d0f05587a21305f26c8db771baeae4cd7b474d8a933335136d4",
+          "modelSha256": "3663aa8f3eae08b62636c385f1ae0cbef76c859c5e15bd3c7942e2203b18bf0f",
+          "bytes": 11003605,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
