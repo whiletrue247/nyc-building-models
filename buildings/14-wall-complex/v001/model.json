@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "14-wall-complex",
+  "name": "14 Wall Street / Bankers Trust complex (tower and 1930s addition)",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "07a6fa9c325970187e5fce4f1adb382ea05b66a96b298223e1e379f75ca8af09",
+  "bytes": 187704940,
+  "triangles": 2766484,
+  "meshNodes": 63,
+  "materialCount": 14,
+  "embeddedImages": 9,
+  "license": "CC BY 4.0 for original contributions; existing photograph-derived facade artwork retains CC BY-SA 4.0. See NOTICE.txt for source terms and attribution.",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Static full exterior with retained tower/addition, repaired four estimated doorway presentations and independent official-terrain-bound entry surfaces. Source building datum unknown; no current survey or new game installation.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "knownLimitations": [
+    "All aperture registration, storeys, ornament profiles and stone colours are proportional art estimates, not surveyed dimensions",
+    "Source planar sub-faces are projected into explicit artist planes; original source unchanged",
+    "North/west/courtyard/window and roof equipment conditions partly unobserved",
+    "Pyramid coursing, flue openings, original eagle and floral ornament studies are not scans",
+    "No current2026 survey, gameplay publication, collision/navigation or Quest hardware verification",
+    "Four doorway floors and connecting surfaces are explicit independent art compatibility estimates. Doors and gates are static.",
+    "The original tower and 1930s addition share one locked source family; this release counts as one building complex.",
+    "The plain lower rear cladding is retained estimated artwork; the real blind-wall condition and partly unobserved rear/courtyard surfaces are not established by this release."
+  ],
+  "assetId": "building.nyc.doitt.265285.part.14-wall-complex",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.265285",
+    "bin": "1001025",
+    "sourceId": "21210001837",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_HFMF8RF0EEP1BM6F0BVQYI3DC1NUM22QRJDT",
+    "sourceMeshSha256": "fd7cc1d68b3209c6f489558e7ebfc8c77ae2aa3c0b18662aa9bc73f36f03236c",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "14-wall-complex",
+    "nativeRecordId": "gml_HFMF8RF0EEP1BM6F0BVQYI3DC1NUM22QRJDT"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 9,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 261,
+  "relatedBuildings": [
+    {
+      "id": "nyse-main",
+      "relation": "The New York Stock Exchange across Wall Street is a separate building and model."
+    }
+  ],
+  "compatibilityNotes": [
+    "2766484 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/14-wall-complex-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/14-wall-complex-v001/14-wall-complex-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "39984c77fb0d4cc14c5c581dd520cc458895f876d5305a2bbb8dc1462d132bbc",
+    "bytes": 36499549
+  }
+}
