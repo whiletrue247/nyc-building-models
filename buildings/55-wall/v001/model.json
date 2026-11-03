@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "55-wall",
+  "name": "55 Wall Street / National City Bank / Cipriani",
+  "version": "v001",
+  "format": "GLB 2.0",
+  "units": "metres",
+  "file": "building.glb",
+  "placement": "placement.json",
+  "sha256": "0f9aa02971a73a2d7cf80f2c16fea6e2fc7a8c8bc433187aa9d2d0754b2d9d72",
+  "bytes": 55981784,
+  "triangles": 1187670,
+  "meshNodes": 32,
+  "materialCount": 16,
+  "embeddedImages": 9,
+  "license": "CC-BY-4.0 for original contributions; source notices apply",
+  "aiModelId": null,
+  "aiProvenance": "Exact historical AI model identity was not recorded; not inferred.",
+  "scope": "Retained complete static exterior with independent estimated source-bound entry floors and wall-footing closures; verified existing material-only input repairs normal wiring; basic four-side and obvious ground-contact review only. Original source roofs, whole-building position, artist geometry and unknown datum retained. No new game install or survey claim.",
+  "verificationStatus": "accepted-desktop-static-exterior",
+  "consumerProfile": "High-detail desktop exterior; no Quest hardware certification.",
+  "assetId": "building.nyc.doitt.662269.part.55-wall",
+  "sourceIdentity": {
+    "featureId": "nyc.doitt.662269",
+    "bin": "1000827",
+    "sourceId": "21210001103",
+    "sourceRecordKey": "DA_WISE_GMLs/DA12_3D_Buildings_Merged.gml#gml_Y58XZXW3B003S950Z6KY4H0B8IOR6BEV60Q2",
+    "sourceMeshSha256": "73e0644d5cd423f56aaa9e4ed10c3a0077db82e88f85fd4a15f37421ac2df80b",
+    "sourceRelease": "nyc.oti.citygml.2014",
+    "physicalTargetId": "55-wall",
+    "nativeRecordId": "gml_Y58XZXW3B003S950Z6KY4H0B8IOR6BEV60Q2"
+  },
+  "testedConsumer": {
+    "application": "Blender",
+    "version": "5.2.1",
+    "format": "Direct self-contained GLB import",
+    "viewsChecked": 5,
+    "packedImages": 9,
+    "normalMapWiringIssues": 0
+  },
+  "terrainContactChecks": 198,
+  "relatedBuildings": [
+    {
+      "id": "41-broad-lee-higginson",
+      "relation": "41 Broad Street is a separate nearby asset; no shared interior is inferred."
+    }
+  ],
+  "compatibilityNotes": [
+    "1187670 triangles; high-detail static desktop model, no Quest hardware certification.",
+    "Some normal-mapped primitives may require consumer-generated tangent space; shading depends on support for the declared glTF material extensions.",
+    "Door geometry is static exterior artwork; operating doors, interiors, collision components and gameplay scripts are not included.",
+    "Appearance, carving, stairs and unobserved surfaces contain artist estimates; not surveyed or fully current as-built certification."
+  ],
+  "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/55-wall-v001",
+  "download": {
+    "url": "https://github.com/whiletrue247/nyc-building-models/releases/download/55-wall-v001/55-wall-v001.zip",
+    "format": "ZIP containing the self-contained GLB, placement and licensing records",
+    "sha256": "49ea2ab7efe23a1645556f6eca3c8d2a5c6a219469d092901b051946969fb443",
+    "bytes": 19344051
+  }
+}
