@@ -517,6 +517,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "40-broad",
+      "name": "40BroadStreet | Setai current conversion exterior study",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/40-broad/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/40-broad-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/40-broad-v001/40-broad-v001.zip",
+          "sha256": "e15b17a94db3f047c9f021ff16a8c95ba8f6901708ce5bf0b76e30987a8a5ab9",
+          "modelSha256": "fdca42fde8d83ccebe9bf9b547e5c3d6eacf84fbe12648797051212da96f5b7b",
+          "bytes": 3223993,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
