@@ -67,6 +67,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "11-wall-annex",
+      "name": "11 Wall Street / 1922 north annex",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/11-wall-annex/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/11-wall-annex-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/11-wall-annex-v001/11-wall-annex-v001.zip",
+          "sha256": "6c360fdb1631f23c6232d6800e1aaf1983adfd9d885192d8f043af8d24f38eb9",
+          "modelSha256": "1ed3a6eb3c8d248e1af8aee0dd488ab7829a6e030b0ec45f895beb820166cbbb",
+          "bytes": 22407313,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
