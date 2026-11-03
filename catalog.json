@@ -337,6 +337,24 @@
           "availabilityStatus": "available"
         }
       ]
+    },
+    {
+      "id": "52-william",
+      "name": "52 William Street / Kuhn Loeb Company Building",
+      "latestVersion": "v001",
+      "availabilityStatus": "available",
+      "versions": [
+        {
+          "version": "v001",
+          "record": "buildings/52-william/v001/model.json",
+          "release": "https://github.com/whiletrue247/nyc-building-models/releases/tag/52-william-v001",
+          "download": "https://github.com/whiletrue247/nyc-building-models/releases/download/52-william-v001/52-william-v001.zip",
+          "sha256": "e5ee187b41c929726e889964557016d211796ccddc54919600d396937cabc306",
+          "modelSha256": "695456e75abd7a815913bc565fccc5b852c1b4f2ebf556dce8ff4b631664e8c0",
+          "bytes": 8128447,
+          "availabilityStatus": "available"
+        }
+      ]
     }
   ]
 }
